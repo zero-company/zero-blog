@@ -1,0 +1,11 @@
+[workspace]
+members = [
+  "packages/zero-blog",
+  "packages/zero-blog-content",
+]
+
+[workspace.package]
+version = "1.0.0"
+
+[workspace.dependencies]
+
