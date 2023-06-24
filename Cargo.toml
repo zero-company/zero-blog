@@ -1,6 +1,6 @@
 [workspace]
 members = [
-  "packages/zero-blog",
+  "packages/zero-blog-mdbook",
   "packages/zero-blog-content",
 ]
 
