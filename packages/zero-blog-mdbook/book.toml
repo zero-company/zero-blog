@@ -7,3 +7,9 @@ title = "zero-blog"
 
 [build]
 build-dir = "dist"
+
+[output.html]
+default-theme = "ayu"
+
+[output.html.print]
+enable = false
