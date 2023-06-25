@@ -2,7 +2,7 @@
 authors = ["Zero"]
 language = "en"
 multilingual = false
-src = "src"
+src = "./../zero-blog-content/src"
 title = "zero-blog"
 
 [build]
