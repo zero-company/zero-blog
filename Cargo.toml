@@ -1,8 +1,5 @@
 [workspace]
-members = [
-  "packages/zero-blog-mdbook",
-  "packages/zero-blog-content",
-]
+members = []
 
 [workspace.package]
 version = "1.0.0"
