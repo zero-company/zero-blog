@@ -1,4 +1,4 @@
----
+```yaml hidden
 title: Rust Awesome List
 slug: rust-awesome-list
 tags:
@@ -6,7 +6,7 @@ tags:
   - rust
 contributors:
   - zero1-473d62-38a434-1b24a6-53c1e2-c18ff1-fa9078
----
+```
 
 ## Rust Awesome List
 
