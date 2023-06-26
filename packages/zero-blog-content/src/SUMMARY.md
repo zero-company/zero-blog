@@ -1,6 +1,9 @@
 # Summary
 
-- [Chapter 1](./rust-awesome-list.md)
+[Index](./index.md)
+
+# Awesome Lists
+
 - [rust-awesome-list](./rust-awesome-list.md)
 
 ---
