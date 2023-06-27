@@ -14,12 +14,13 @@ List of all things rust
 
 ## Learning Resources
 
-- Rustlings- Small exercises to get you used to reading and writing Rust code
-  https://github.com/rust-lang/rustlings
-- Rustlings (Video) - If you're not a fan of homework, how about simply streaming it
-  https://www.youtube.com/watch?v=G3Vr-yswlaU
-- Rust By Example - Like an online version of rustlings, but not the same exercises
-  https://doc.rust-lang.org/rust-by-example
+- Rustlings - Small exercises to get you used to reading and writing Rust code\
+  [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+
+- Rustlings (Video) - If you're not a fan of homework, how about simply streaming it\
+  [https://www.youtube.com/watch?v=G3Vr-yswlaU](https://www.youtube.com/watch?v=G3Vr-yswlaU)
+- Rust By Example - Like an online version of rustlings, but not the same exercises\
+  [https://doc.rust-lang.org/rust-by-example](https://doc.rust-lang.org/rust-by-example)
 
 ## Frameworks
 
