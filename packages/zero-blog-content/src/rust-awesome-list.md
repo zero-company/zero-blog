@@ -16,7 +16,6 @@ List of all things rust
 
 - Rustlings - Small exercises to get you used to reading and writing Rust code\
   [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-
 - Rustlings (Video) - If you're not a fan of homework, how about simply streaming it\
   [https://www.youtube.com/watch?v=G3Vr-yswlaU](https://www.youtube.com/watch?v=G3Vr-yswlaU)
 - Rust By Example - Like an online version of rustlings, but not the same exercises\
