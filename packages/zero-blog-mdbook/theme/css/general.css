@@ -242,3 +242,7 @@ kbd {
 .giscus {
   margin-top: 60px;
 }
+
+.nav-wrapper {
+  display: none !important;
+}
