@@ -1,4 +1,5 @@
 ```yaml hidden
+zeroId: zero1-92ce9f-01a27e-96a7a0-21ac41-2ce505-6eb0ef
 title: Rust Awesome List
 slug: rust-awesome-list
 tags:
