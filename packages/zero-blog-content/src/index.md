@@ -1,15 +1,16 @@
 ### Index
 
-Open source blog
+Open source blog for open source writers, no vendor locks, no paywalls, no strings attached.
 
 ### Awesome Lists
 
 - [dev-awesome-list](dev-awesome-list.md)
 - [rust-awesome-list](rust-awesome-list.md)
 
-### Github
+### Links
 
-[https://github.com/zero-company/zero-blog](https://github.com/zero-company/zero-blog)
+- [Github](https://github.com/zero-company/zero-blog)
+- [Discord](https://discord.gg/2a5HcmxvgC)
 
 ### License
 
