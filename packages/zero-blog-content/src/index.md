@@ -4,13 +4,15 @@ Open source blog for open source writers, no vendor locks, no paywalls, no strin
 
 ### Awesome Lists
 
-- [dev-awesome-list](dev-awesome-list.md)
-- [rust-awesome-list](rust-awesome-list.md)
+- [dev](./dev-awesome-list.md)
+- [rust](./rust-awesome-list.md)
+- [services](./services-awesome-list.md)
 
 ### Links
 
 - [Github](https://github.com/zero-company/zero-blog)
 - [Discord](https://discord.gg/2a5HcmxvgC)
+- [BuyMeACoffee](https://www.buymeacoffee.com/supportzero)
 
 ### License
 

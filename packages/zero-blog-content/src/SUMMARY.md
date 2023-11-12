@@ -4,8 +4,9 @@
 
 # Awesome Lists
 
-- [dev-awesome-list](./dev-awesome-list.md)
-- [rust-awesome-list](./rust-awesome-list.md)
+- [dev](./dev-awesome-list.md)
+- [rust](./rust-awesome-list.md)
+- [services](./services-awesome-list.md)
 
 ---
 
