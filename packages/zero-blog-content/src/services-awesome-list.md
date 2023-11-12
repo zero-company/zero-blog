@@ -14,10 +14,15 @@ List of services
 
 ### Static Site Hosting
 
-- Cloudflare Pages
-- Github Pages
-- Vercel
-- Netlify
+  - Cloudflare Pages
+  - Github Pages
+  - Vercel
+  - Netlify
+
+### Database Hosting
+
+  - Supabase
+  - Neon
 
 ### Donation Platforms
 
