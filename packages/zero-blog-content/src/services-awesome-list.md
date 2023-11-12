@@ -12,6 +12,12 @@ contributors:
 
 List of services
 
+
+### Rust Hosting
+
+  - [Shuttle](https://www.shuttle.rs/)
+  - [Render](https://render.com/)
+
 ### Static Site Hosting
 
   - Cloudflare Pages
