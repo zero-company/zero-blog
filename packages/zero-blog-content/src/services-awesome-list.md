@@ -28,6 +28,8 @@ List of services
 
 ### Database Hosting
 
+  Supabase and Neon has builtin pooling for serverless functions.
+
   - [Supabase](https://supabase.com/)
   - [Neon](https://neon.tech/)
 
