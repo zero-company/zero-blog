@@ -20,15 +20,16 @@ List of services
 
 ### Static Site Hosting
 
-  - Cloudflare Pages
-  - Github Pages
-  - Vercel
-  - Netlify
+  - [Cloudflare Pages](https://pages.cloudflare.com/)
+  - [Github Pages](https://pages.github.com/)
+  - [Vercel](https://vercel.com)
+  - [Netlify](https://www.netlify.com/)
+  - [Surge](https://surge.sh/)
 
 ### Database Hosting
 
-  - Supabase
-  - Neon
+  - [Supabase](https://supabase.com/)
+  - [Neon](https://neon.tech/)
 
 ### Donation Platforms
 
