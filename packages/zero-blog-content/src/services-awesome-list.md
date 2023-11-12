@@ -37,11 +37,11 @@ List of services
 
 - [Buy Me a Coffee](https://www.buymeacoffee.com)
 
-  - Supported payment methods are Stripe, Direct Bank, or Payoneer.
+  - Supported payment methods are Stripe, Direct Bank, or Payoneer.\
     [https://help.buymeacoffee.com/en/articles/6364717-when-are-payouts-processed](https://help.buymeacoffee.com/en/articles/6364717-when-are-payouts-processed)
 
 - [Ko-fi](https://ko-fi.com/)
-  - Payment method limited to only Paypal or Stripe.
+  - Payment method limited to only Paypal or Stripe.\
     [https://help.ko-fi.com/hc/en-us/articles/115003980153-I-don-t-have-a-PayPal-account](https://help.ko-fi.com/hc/en-us/articles/115003980153-I-don-t-have-a-PayPal-account)
 
 

@@ -9,11 +9,11 @@ contributors:
   - zero1-473d62-38a434-1b24a6-53c1e2-c18ff1-fa9078
 ```
 
-## Rust Awesome List
+### Rust Awesome List
 
 List of all things rust
 
-## Learning Resources
+### Learning Resources
 
 - Rustlings - Small exercises to get you used to reading and writing Rust code\
   [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings)
@@ -22,7 +22,7 @@ List of all things rust
 - Rust By Example - Like an online version of rustlings, has it's own set of exercises\
   [https://doc.rust-lang.org/rust-by-example](https://doc.rust-lang.org/rust-by-example)
 
-## Frameworks
+### Frameworks
 
 - Tauri - Framework for building cross platform apps (Web, Desktop, Mobile)\
   [https://tauri.app](https://tauri.app) \

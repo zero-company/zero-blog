@@ -8,7 +8,7 @@ contributors:
   - zero1-473d62-38a434-1b24a6-53c1e2-c18ff1-fa9078
 ```
 
-## Dev Awesome List
+### Dev Awesome List
 
 - Tailwind - Utility-first CSS framework\
   [https://tailwindcss.com](https://tailwindcss.com)\
