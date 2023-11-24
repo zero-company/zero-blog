@@ -15,7 +15,7 @@ List of services
 
 ### Rust Hosting
 
-  - [Shuttle](https://www.shuttle.rs/)
+  - [Shuttle](https://www.shuttle.rs/) - serverless
   - [Render](https://render.com/)
 
 ### Static Site Hosting
