@@ -2,6 +2,10 @@
 
 [Index](./index.md)
 
+# Guides
+
+- [deploy-rust-graphql]()
+
 # Awesome Lists
 
 - [dev](./dev-awesome-list.md)
