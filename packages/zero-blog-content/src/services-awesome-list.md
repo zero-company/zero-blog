@@ -20,7 +20,7 @@ List of services
 
 ### Static Site Hosting
 
-  - [Cloudflare Pages](https://pages.cloudflare.com/)
+  - [Cloudflare Pages](https://pages.cloudflare.com/) - offers unlimited bandwidth ❤️
   - [Github Pages](https://pages.github.com/)
   - [Vercel](https://vercel.com)
   - [Netlify](https://www.netlify.com/)
