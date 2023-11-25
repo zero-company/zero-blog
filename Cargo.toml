@@ -8,4 +8,4 @@ resolver = "2"
 version = "1.0.0"
 
 [workspace.dependencies]
-
+cargo-zero = { version = "0.1.0" }
