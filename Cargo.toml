@@ -1,5 +1,8 @@
 [workspace]
-members = []
+members = ["packages/*"]
+default-members = ["packages/*"]
+exclude = []
+resolver = "2"
 
 [workspace.package]
 version = "1.0.0"
