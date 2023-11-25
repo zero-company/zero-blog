@@ -8,6 +8,7 @@ install tools:
 
 ```
 cargo install trunk
+cargo install --locked cargo-leptos
 cargo install --force cargo-make
 cargo install --locked wasm-bindgen-cli
 pnpm add -g tailwindcss
