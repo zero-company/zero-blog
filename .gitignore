@@ -22,9 +22,11 @@ next-env.d.ts
 # production
 /build
 
-# misc
+# System Files
 .DS_Store
-.idea
+Thumbs.db
+
+# misc
 *.pem
 *.suo
 *.ntvs*
@@ -68,6 +70,8 @@ dist-ssr/
 .output/
 *.local
 .rollup.cache
+.cache
+.parcel-cache
 
 # zero
 gitignore
@@ -81,7 +85,21 @@ target/
 # tauri
 dist/
 target/
-Cargo.lock
+
+# playwright
+test-results/
+end2end/playwright-report/
+playwright/.cache/
 
 # rustfmt
 **/*.rs.bk
+
+# solid-start
+worker
+.solid
+.output
+.vercel
+.netlify
+
+# cloudflare functions on root
+/functions
