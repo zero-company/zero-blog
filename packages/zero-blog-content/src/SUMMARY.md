@@ -5,6 +5,7 @@
 # Guides
 
 - [deploy-rust-graphql]()
+- [setup-leptos-tauri](./setup-leptos-tauri.md)
 
 # Awesome Lists
 
