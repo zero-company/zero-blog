@@ -12,6 +12,16 @@ chmod 600 test-project-dev-lightsail.pem
 
 you can also open ssh connection remotely on the browser via aws console
 
+Install VS Code extension, VS Code Remote - SSH(ms-vscode-remote.remote-ssh)
+Ctrl+Shift+P > Remote-SSH: Connect to Host... > Configure SSH Hosts... > `C:\Users\yourusername\.ssh\config` then add below line...
+
+```
+  Host 111.222.333.444
+  HostName 111.222.333.444
+  IdentityFile "C:\Users\yourusername\.ssh\test-project-dev-lightsail.pem"
+  User bitnami
+```
+
 - Update
 
 ```
