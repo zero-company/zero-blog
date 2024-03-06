@@ -1,6 +1,7 @@
 # Lightsail Deployment
 
 Download and move generated ssh key upon instance creation to `C:\Users\yourusername\.ssh`.
+Default password can be found in `home/bitnami/bitnami_application_password`
 
 - SSH Connect
 
@@ -19,6 +20,12 @@ sudo apt-get update
 
 - MongoDB
 
+  Port forwarding for Compass
+
 ```
 ssh -i test-project-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
+```
+
+```
+mongosh admin --username root -p
 ```
