@@ -48,3 +48,13 @@ ssh -i test-project-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.2
 ```
 mongosh admin --username root -p
 ```
+
+- PM2
+
+```
+sudo yarn global add pm2
+pm2 start "yarn start" --name boc_queue
+pm2 stop
+pm2 ls
+pm2 monit
+```
