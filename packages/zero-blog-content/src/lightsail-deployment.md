@@ -18,6 +18,15 @@ you can also open ssh connection remotely on the browser via aws console
 sudo apt-get update
 ```
 
+- Git
+
+To clone private github repo inside lightsail, generate ssh key which can be found in `home/bitnami/.ssh/id_rsa.pub`, Add to private github repo deploy keys.
+
+```
+ssh-keygen -o -t rsa -C "jigzpalillo@gmail.com"
+git clone git@github.com:my-org/my-repo.git
+```
+
 - MongoDB
 
   Port forwarding for Compass
