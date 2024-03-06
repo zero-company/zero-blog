@@ -69,3 +69,16 @@ pm2 stop
 pm2 ls
 pm2 monit
 ```
+
+- Install Docker Compose
+
+```
+sudo apt-get install -y \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg2 \
+    software-properties-common
+
+curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
+```
