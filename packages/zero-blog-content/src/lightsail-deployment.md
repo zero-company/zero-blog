@@ -51,7 +51,7 @@ db.system.users.find()
 use test_project_dev_mongodb
 db.config.insertOne( { initialDate: new Date() } )
 show dbs, show collections
-
+exit
 ```
 
 Port forwarding for Compass
