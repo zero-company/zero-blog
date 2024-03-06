@@ -39,14 +39,25 @@ git clone git@github.com:my-org/my-repo.git
 
 - MongoDB
 
-  Port forwarding for Compass
+Setup
+
+```
+mongosh admin --username root -p # bitnami_application_password
+db.createUser({user: "api", pwd: "", roles: ["userAdminAnyDatabase"]})
+db.grantRolesToUser("api", [{ role: "userAdminAnyDatabase", db:"admin" }, "readWriteAnyDatabase"])
+show users
+db.system.users.find()
+
+use test_project_dev_mongodb
+db.config.insertOne( { initialDate: new Date() } )
+show dbs, show collections
+
+```
+
+Port forwarding for Compass
 
 ```
 ssh -i test-project-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
-```
-
-```
-mongosh admin --username root -p
 ```
 
 - PM2
