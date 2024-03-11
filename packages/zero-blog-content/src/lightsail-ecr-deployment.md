@@ -1,5 +1,22 @@
 # Lightsail ECR Deployment
 
+Setup `docker-compose.yml`
+
+```
+version: '3'
+services:
+  scheduler:
+    image: ${DOCKER_REGISTRY}/pipeline_scheduler
+    build:
+      context: ../
+      dockerfile: ./docker/scheduler/Dockerfile
+   startup:
+     image: ${DOCKER_REGISTRY}/pipeline_setup
+     build:
+       context: ../
+       dockerfile: ./docker/startup/Dockerfile
+```
+
 Authenticate w/ registry
 
 ```
