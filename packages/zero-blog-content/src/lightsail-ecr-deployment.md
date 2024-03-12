@@ -49,7 +49,7 @@ WORKDIR /app
 RUN yarn global add turbo
 COPY . .
 RUN yarn install
-RUN yarn turbo build:combinecsr --output-logs=none
+RUN yarn build:combinecsr --output-logs=none
 
 # Use Nginx as server
 FROM nginx:alpine AS server
