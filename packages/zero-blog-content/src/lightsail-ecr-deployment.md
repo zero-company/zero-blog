@@ -55,11 +55,8 @@ RUN yarn turbo build:combinecsr --output-logs=none
 FROM nginx:alpine AS server
 COPY --from=builder /app/build /usr/share/nginx/html
 EXPOSE 8080
-# CMD ["nginx", "-g", "daemon off;"]
 
-CMD [""]
-
-# CMD ["yarn", "start:api"]
+CMD ["/bin/sh", "entrypoint.sh"]
 ```
 
 ```
@@ -67,6 +64,6 @@ CMD [""]
 
 echo 'Starting api w/ admin,terminal'
 
-yarn start:api
-nginx -g daemon off;
+yarn start:api &
+nginx -g daemon off; &
 ```
