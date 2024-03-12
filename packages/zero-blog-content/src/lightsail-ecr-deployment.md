@@ -37,33 +37,45 @@ for r in $(grep 'image: \${DOCKER_REGISTRY}' docker-compose.yml | sed -e 's/^.*\
 ## Temp
 
 ```
-FROM node:18-alpine AS base
-
-# Build the React apps
-FROM base AS builder
 # Setup
+FROM node:18-alpine
 # https://github.com/nodejs/docker-node/tree/b4117f9333da4138b03a546ec926ef50a31506c3#nodealpine
 RUN apk add --no-cache libc6-compat
 RUN apk update
 WORKDIR /app
 RUN yarn global add turbo
+RUN apk add nginx
+RUN systemctl start nginx
+
+# Build React apps
 COPY . .
 RUN yarn install
-RUN yarn build:combinecsr --output-logs=none
+RUN yarn build
+# COPY /app/build /usr/share/nginx/html
 
-# Use Nginx as server
-FROM nginx:alpine AS server
-COPY --from=builder /app/build /usr/share/nginx/html
+# Run
 EXPOSE 8080
-
 CMD ["/bin/sh", "entrypoint.sh"]
 ```
 
 ```
 #!/bin/bash
 
-echo 'Starting api w/ admin,terminal'
+echo 'Combining boc_queue_terminal and boc_queue_admin'
+rm -rf build/*
+mkdir build
+cp -r ./apps/boc_queue_terminal/build/* ./build
+mkdir build/admin
+cp -r ./apps/boc_queue_admin/build/* ./build/admin
 
+echo 'Moving build to nginx'
+mkdir -p ./usr/share/nginx/html
+cp -r ./apps/boc_queue_terminal/build/* ./usr/share/nginx/html
+
+echo 'Starting api w/ admin,terminal'
 yarn start:api &
-nginx -g daemon off; &
+nginx -g 'daemon off;'
 ```
+
+docker build -t boc_queue:1 .
+docker run -p 3001:3001 -p 8080:8080 boc_queue:1
