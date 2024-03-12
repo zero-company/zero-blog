@@ -33,3 +33,40 @@ for r in $(grep 'image: \${DOCKER_REGISTRY}' docker-compose.yml | sed -e 's/^.*\
 
 - https://stackoverflow.com/questions/44052999/docker-compose-push-image-to-aws-ecr
 - https://bobcares.com/blog/docker-compose-push-to-ecr/
+
+## Temp
+
+```
+FROM node:18-alpine AS base
+
+# Build the React apps
+FROM base AS builder
+# Setup
+# https://github.com/nodejs/docker-node/tree/b4117f9333da4138b03a546ec926ef50a31506c3#nodealpine
+RUN apk add --no-cache libc6-compat
+RUN apk update
+WORKDIR /app
+RUN yarn global add turbo
+COPY . .
+RUN yarn install
+RUN yarn turbo build:combinecsr --output-logs=none
+
+# Use Nginx as server
+FROM nginx:alpine AS server
+COPY --from=builder /app/build /usr/share/nginx/html
+EXPOSE 8080
+# CMD ["nginx", "-g", "daemon off;"]
+
+CMD [""]
+
+# CMD ["yarn", "start:api"]
+```
+
+```
+#!/bin/bash
+
+echo 'Starting api w/ admin,terminal'
+
+yarn start:api
+nginx -g daemon off;
+```
