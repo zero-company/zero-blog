@@ -44,21 +44,25 @@ for r in $(grep 'image: \${DOCKER_REGISTRY}' docker-compose.yml | sed -e 's/^.*\
 FROM node:18-alpine
 # https://github.com/nodejs/docker-node/tree/b4117f9333da4138b03a546ec926ef50a31506c3#nodealpine
 RUN apk add --no-cache libc6-compat
+RUN apk add --no-cache supervisor
 RUN apk update
 WORKDIR /app
 RUN yarn global add turbo
 RUN apk add nginx
-RUN systemctl start nginx
 
 # Build React apps
 COPY . .
 RUN yarn install
 RUN yarn build
-# COPY /app/build /usr/share/nginx/html
+
+# Move build to nginx
+COPY ./apps/boc_queue_terminal/build ./../usr/share/nginx/html
+COPY ./apps/boc_queue_admin/build ./../usr/share/nginx/html/admin
 
 # Run
-EXPOSE 8080
-CMD ["/bin/sh", "entrypoint.sh"]
+EXPOSE 80
+CMD ["/usr/bin/supervisord"]
+# CMD ["/bin/sh", "entrypoint.sh"]
 ```
 
 ```
@@ -78,7 +82,15 @@ cp -r ./apps/boc_queue_terminal/build/* ./usr/share/nginx/html
 echo 'Starting api w/ admin,terminal'
 yarn start:api &
 nginx -g 'daemon off;'
+
+wait -n
+exit $?
 ```
 
 docker build -t boc_queue:1 .
 docker run -p 3001:3001 -p 8080:8080 boc_queue:1
+docker run -p 3001:3001 -p 80:80 boc_queue:1
+
+EXPOSE 80
+CMD ["/usr/bin/supervisord"]
+CMD ["/bin/sh", "entrypoint.sh"]
