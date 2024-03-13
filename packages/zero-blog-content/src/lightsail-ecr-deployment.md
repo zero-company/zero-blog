@@ -33,6 +33,7 @@ for r in $(grep 'image: \${DOCKER_REGISTRY}' docker-compose.yml | sed -e 's/^.*\
 
 - https://stackoverflow.com/questions/44052999/docker-compose-push-image-to-aws-ecr
 - https://bobcares.com/blog/docker-compose-push-to-ecr/
+- https://www.baeldung.com/ops/docker-run-multiple-commands
 
 ## Temp
 
