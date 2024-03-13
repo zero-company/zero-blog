@@ -94,3 +94,8 @@ docker run -p 3001:3001 -p 8080:80 boc_queue:1
 EXPOSE 80
 CMD ["/usr/bin/supervisord"]
 CMD ["/bin/sh", "entrypoint.sh"]
+
+- use supervisor
+  CMD ["/usr/bin/supervisord"]
+- use linux
+  uname -a

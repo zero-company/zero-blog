@@ -82,3 +82,5 @@ sudo apt-get install -y \
 
 curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
 ```
+
+uname -a
