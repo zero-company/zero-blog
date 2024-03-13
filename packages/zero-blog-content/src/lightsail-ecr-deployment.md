@@ -35,6 +35,7 @@ for r in $(grep 'image: \${DOCKER_REGISTRY}' docker-compose.yml | sed -e 's/^.*\
 - https://bobcares.com/blog/docker-compose-push-to-ecr/
 - https://www.baeldung.com/ops/docker-run-multiple-commands
 - https://docs.docker.com/config/containers/multi-service_container/
+- https://www.golinuxcloud.com/docker-compose-multiple-commands/
 
 ## Temp
 
