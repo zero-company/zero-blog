@@ -58,6 +58,7 @@ Port forwarding for Compass
 
 ```
 ssh -i test-project-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
+ssh -i boc-queue-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
 ```
 
 - PM2
