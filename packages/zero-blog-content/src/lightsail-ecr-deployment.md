@@ -90,6 +90,7 @@ exit $?
 docker build -t boc_queue:1 .
 docker run -p 3001:3001 -p 8080:8080 boc_queue:1
 docker run -p 3001:3001 -p 8080:80 boc_queue:1
+docker run -p 3001:3001 -p 8080:80 -p 8181:81 boc_queue:1
 
 EXPOSE 80
 CMD ["/usr/bin/supervisord"]
