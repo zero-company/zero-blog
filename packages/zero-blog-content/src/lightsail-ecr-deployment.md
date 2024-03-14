@@ -99,3 +99,38 @@ CMD ["/bin/sh", "entrypoint.sh"]
   CMD ["/usr/bin/supervisord"]
 - use linux
   uname -a
+
+### nginx.conf
+
+```
+    server {
+        listen       80;
+        listen       [::]:80;
+        server_name  _;
+        root         /usr/share/nginx/html;
+
+        # Load configuration files for the default server block.
+        include /etc/nginx/default.d/*.conf;
+
+        # rewrite ^/(.*)/$ /$1 permanent;
+
+        location /ticket {
+            try_files $uri /index.html;
+        }
+
+        location /ticket/ {
+            try_files $uri /index.html;
+        }
+
+        error_page 404 /404.html;
+        location = /404.html {
+        }
+
+        error_page 500 502 503 504 /50x.html;
+        location = /50x.html {
+        }
+    }
+```
+
+ps axu
+list pid
