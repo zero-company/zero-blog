@@ -95,4 +95,4 @@ sudo apt install nginx
 
 - lightsail 
 networking firewall
-TCP 3001
+Custom TCP 3001
