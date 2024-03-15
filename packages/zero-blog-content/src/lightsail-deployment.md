@@ -101,5 +101,6 @@ sudo apt install nginx
 
 ```
 yarn global add serve
-serve -p 3000 -s build
+yarn serve -p 3002 -s build
+yarn serve -p 3003 -s build.admin
 ```
