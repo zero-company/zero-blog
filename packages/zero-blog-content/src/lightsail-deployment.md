@@ -85,3 +85,10 @@ curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
 ```
 
 uname -a
+
+- nginx
+
+```
+sudo apt update
+sudo apt install nginx
+```
