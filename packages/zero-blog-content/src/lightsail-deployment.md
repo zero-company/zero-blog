@@ -106,6 +106,7 @@ yarn serve -p 3003 -s build.admin
 ```
 
 - apache
+
   ```
   <VirtualHost *:8080>
   ServerName example.com
@@ -124,5 +125,7 @@ yarn serve -p 3003 -s build.admin
     </Directory>
   </VirtualHost>
   ```
+
   sudo service apache2 restart
+  sudo /opt/bitnami/ctlscript.sh restart apache
   https://stackoverflow.com/questions/44038456/how-to-setup-apache-server-for-react-route
