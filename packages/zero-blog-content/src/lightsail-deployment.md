@@ -6,6 +6,7 @@ Default password can be found in `home/bitnami/bitnami_application_password`
 - SSH Connect
 
 ```
+ssh -i boc-queue-dev-lightsail.pem bitnami@13.210.182.8
 ssh -i test-project-dev-lightsail.pem bitnami@111.222.333.444
 chmod 600 test-project-dev-lightsail.pem
 ```
