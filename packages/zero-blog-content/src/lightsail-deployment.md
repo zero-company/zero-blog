@@ -85,15 +85,14 @@ sudo apt-get install -y \
 curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
 ```
 
-uname -a
-
 - nginx
 
 ```
+uname -a
 sudo apt update
 sudo apt install nginx
 ```
 
-- lightsail 
-networking firewall
-Custom TCP 3001
+- lightsail
+  networking firewall
+  Custom TCP 3001
