@@ -92,3 +92,7 @@ uname -a
 sudo apt update
 sudo apt install nginx
 ```
+
+- lightsail 
+networking firewall
+TCP 3001
