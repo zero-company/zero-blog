@@ -104,3 +104,25 @@ yarn global add serve
 yarn serve -p 3002 -s build
 yarn serve -p 3003 -s build.admin
 ```
+
+- apache
+  ```
+  <VirtualHost *:8080>
+  ServerName example.com
+  DocumentRoot /var/www/httpd/example.com
+
+    <Directory "/var/www/httpd/example.com">
+      ...
+
+      RewriteEngine On
+      # Don't rewrite files or directories
+      RewriteCond %{REQUEST_FILENAME} -f [OR]
+      RewriteCond %{REQUEST_FILENAME} -d
+      RewriteRule ^ - [L]
+      # Rewrite everything else to index.html to allow html5 state links
+      RewriteRule ^ index.html [L]
+    </Directory>
+  </VirtualHost>
+  ```
+  sudo service apache2 restart
+  https://stackoverflow.com/questions/44038456/how-to-setup-apache-server-for-react-route
