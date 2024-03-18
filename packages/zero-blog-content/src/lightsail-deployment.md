@@ -166,6 +166,8 @@ yarn serve -p 3003 -s build.admin
 sudo chmod -R 777 usr/share/nginx/html
 ```
 
-```
+- apache
 
+```
+sudo /opt/bitnami/ctlscript.sh restart apache
 ```
