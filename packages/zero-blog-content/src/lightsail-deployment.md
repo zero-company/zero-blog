@@ -158,3 +158,6 @@ yarn serve -p 3003 -s build.admin
   sudo /opt/bitnami/ctlscript.sh restart mongodb
   ```
 
+- nginx
+
+usr/share/nginx/html
