@@ -141,6 +141,7 @@ yarn serve -p 3003 -s build.admin
   ```
 
 - screen management
+
   ```
   screen
   screen -r
