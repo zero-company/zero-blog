@@ -129,3 +129,21 @@ yarn serve -p 3003 -s build.admin
   sudo service apache2 restart
   sudo /opt/bitnami/ctlscript.sh restart apache
   https://stackoverflow.com/questions/44038456/how-to-setup-apache-server-for-react-route
+
+- local build bash
+  ```
+  export REACT_APP_API_URI=http://13.210.182.8:3001/api/ && yarn build:combinecsr --force
+  ```
+
+- screen management
+  ```
+  screen
+  screen -r
+  screen -ls
+  exit
+  screen -S session_name
+  screen -r 10835.api
+  screen -X -S [session # you want to kill] quit
+  ```
+
+ 
