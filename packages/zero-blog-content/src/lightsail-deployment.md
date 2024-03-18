@@ -91,6 +91,8 @@ curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
 uname -a
 sudo apt update
 sudo apt install nginx
+sudo apt-get purge nginx nginx-common
+sudo apt-get autoremove
 ```
 
 - lightsail
@@ -160,4 +162,10 @@ yarn serve -p 3003 -s build.admin
 
 - nginx
 
-usr/share/nginx/html
+```
+sudo chmod -R 777 usr/share/nginx/html
+```
+
+```
+
+```
