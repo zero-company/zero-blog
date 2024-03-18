@@ -171,3 +171,5 @@ sudo chmod -R 777 usr/share/nginx/html
 ```
 sudo /opt/bitnami/ctlscript.sh restart apache
 ```
+
+- yarn build --filter=boc_queue_schema
