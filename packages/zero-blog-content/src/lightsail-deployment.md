@@ -136,6 +136,8 @@ yarn serve -p 3003 -s build.admin
   export REACT_APP_API_URI=http://13.210.182.8:3001/api/ && yarn build:combinecsr --force
   ```
 
+  place build in `opt/bitnami/apache/htdocs`
+
   ```
   yarn start:api
   ```
@@ -155,3 +157,4 @@ yarn serve -p 3003 -s build.admin
   ```
   sudo /opt/bitnami/ctlscript.sh restart mongodb
   ```
+
