@@ -173,3 +173,13 @@ sudo /opt/bitnami/ctlscript.sh restart apache
 ```
 
 - yarn build --filter=boc_queue_schema
+
+- api env mongoose
+
+```
+MONGODB_URI= "mongodb://0.0.0.0:27017" # Must not be localhost
+MONGODB_DATABASE= "boc_queue_mongodb_local"
+MONGODB_USER= "admin"
+MONGODB_PASS= "admin"
+PORT= "3001"
+```
