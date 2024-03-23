@@ -1,0 +1,5 @@
+### rust setup
+
+```
+rustup update
+```
