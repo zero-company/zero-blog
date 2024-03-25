@@ -6,5 +6,7 @@ sign in to github account
 
 default formatter prettier
 
+enable breadcrumbs
+
 extensions
 rust-analyzer
