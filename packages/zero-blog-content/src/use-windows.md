@@ -12,3 +12,5 @@ enable notifications
 
 personalization
 dark mode, accent color red
+start, more pins, disable recents and recomenndations
+folders next to power button, settings, explorer
