@@ -33,3 +33,11 @@ microsoft email and password for network credentials sharing
 
 hardwaretester.com/gamepad
 joystick test
+
+google setup
+firefox
+microsoft setup
+
+find serial number
+lenovo service bridge
+settings, system, about
