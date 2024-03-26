@@ -10,3 +10,10 @@ enable breadcrumbs
 
 extensions
 rust-analyzer
+
+vscode fold comment blocks, regions
+
+auto push commits
+post commit command, push
+
+right click hide show commit graph on source control sidebar
