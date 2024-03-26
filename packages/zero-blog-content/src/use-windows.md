@@ -29,4 +29,5 @@ desktop right click view small icons
 
 settings network and internet, properties
 
-credentials manager
+
+microsoft email and password for network credentials sharing
