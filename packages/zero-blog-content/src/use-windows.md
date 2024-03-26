@@ -17,6 +17,8 @@ personalization
 dark mode, accent color red
 start, more pins, disable recents and recomenndations
 folders next to power button, settings, explorer
+taskbar, disable widgets, disable tray icons onedrive, enable tray icons bluetooth windows security safely remove, 
+taskbar behaviors alignment left
 
 explorer show item check boxes disable
 folder options, show hidden files, display the full path in the title bar
