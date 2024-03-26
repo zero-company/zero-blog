@@ -17,10 +17,16 @@ personalization
 dark mode, accent color red
 start, more pins, disable recents and recomenndations
 folders next to power button, settings, explorer
-taskbar, disable widgets, disable tray icons onedrive, enable tray icons bluetooth windows security safely remove, 
+taskbar, disable widgets, disable tray icons onedrive, enable tray icons bluetooth windows security safely remove, disable copilot
 taskbar behaviors alignment left
 
 explorer show item check boxes disable
 folder options, show hidden files, display the full path in the title bar
 disable hide empty drives
 gopher360
+
+desktop right click view small icons
+
+settings network and internet, properties
+
+credentials manager
