@@ -7,6 +7,8 @@ refresh rate 60hz
 resolution 1280x800
 performance battery saving
 
-dark mode, accent color red
 windows update
 enable notifications
+
+personalization
+dark mode, accent color red
