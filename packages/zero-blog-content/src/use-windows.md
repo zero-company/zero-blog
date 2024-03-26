@@ -17,3 +17,5 @@ folders next to power button, settings, explorer
 
 explorer show item check boxes disable
 folder options, show hidden files, display the full path in the title bar
+disable hide empty drives
+gopher360
