@@ -29,5 +29,7 @@ desktop right click view small icons
 
 settings network and internet, properties
 
-
 microsoft email and password for network credentials sharing
+
+hardwaretester.com/gamepad
+joystick test
