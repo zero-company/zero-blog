@@ -10,6 +10,14 @@ enable breadcrumbs
 
 extensions
 rust-analyzer
+vscode settings
+
+```
+"[rust]": {
+"editor.defaultFormatter": "rust-lang.rust-analyzer",
+"editor.formatOnSave": true
+}
+```
 
 vscode fold comment blocks, regions
 
