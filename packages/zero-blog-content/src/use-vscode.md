@@ -1,6 +1,6 @@
 vscode settings
 
-window zoom level -2
+window zoom level -2, -1
 
 sign in to github account
 
