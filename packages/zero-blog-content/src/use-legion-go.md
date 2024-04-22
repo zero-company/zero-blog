@@ -1,0 +1,1 @@
+https://gaming.lenovo.com/us/connect/groups/legion-go/f/forum/12101/amd-chipset-not-updating/

@@ -30,3 +30,6 @@ right click hide show commit graph on source control sidebar
 
 shortcut for commands
 ctrl+shift+p
+
+git pull rebase from feature/fix branch
+git rebase vs merge, use merge
