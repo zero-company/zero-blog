@@ -188,3 +188,4 @@ PORT= "3001"
 "ts-node" "Unknown file extension" .ts
 https://stackoverflow.com/questions/62096269/cant-run-my-node-js-typescript-project-typeerror-err-unknown-file-extension
 https://github.com/TypeStrong/ts-node/issues/2100
+node --loader ts-node/esm ./server.ts
