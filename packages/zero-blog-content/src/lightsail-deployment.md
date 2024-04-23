@@ -141,6 +141,7 @@ yarn serve -p 3003 -s build.admin
   place build in `opt/bitnami/apache/htdocs`
 
   ```
+  yarn install
   yarn start:api
   ```
 
