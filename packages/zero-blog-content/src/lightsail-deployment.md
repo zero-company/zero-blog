@@ -109,15 +109,15 @@ yarn serve -p 3003 -s build.admin
 
 - apache
 
-opt/bitnami/apache/conf/httpd.conf
+opt/bitnami/apache/conf/bitnami/bitnami.conf
 
 ```
-<VirtualHost *:8080>
-ServerName example.com
-DocumentRoot /var/www/httpd/example.com
-
-  <Directory "/var/www/httpd/example.com">
-    ...
+<VirtualHost _default_:80>
+  DocumentRoot "/opt/bitnami/apache/htdocs"
+  <Directory "/opt/bitnami/apache/htdocs">
+    Options Indexes FollowSymLinks
+    AllowOverride All
+    Require all granted
 
     RewriteEngine On
     # Don't rewrite files or directories
@@ -127,6 +127,9 @@ DocumentRoot /var/www/httpd/example.com
     # Rewrite everything else to index.html to allow html5 state links
     RewriteRule ^ index.html [L]
   </Directory>
+
+  # Error Documents
+  ErrorDocument 503 /503.html
 </VirtualHost>
 ```
 
