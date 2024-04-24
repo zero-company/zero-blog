@@ -109,6 +109,8 @@ yarn serve -p 3003 -s build.admin
 
 - apache
 
+`sudo /opt/bitnami/ctlscript.sh restart apache`
+
 opt/bitnami/apache/conf/bitnami/bitnami.conf
 
 ```
