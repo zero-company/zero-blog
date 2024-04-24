@@ -208,7 +208,7 @@ node --loader ts-node/esm ./server.ts
 ```
 date
 sudo cp /etc/localtime /etc/localtime.bak
-sudo ln -sf /usr/share/zoneinfo/Australia/Sydney /etc/local time
+sudo ln -sf /usr/share/zoneinfo/Australia/Sydney /etc/localtime
 ```
 
 https://www.geeksforgeeks.org/set-the-time-zone-in-amazon-ec2/
