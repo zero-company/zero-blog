@@ -109,28 +109,32 @@ yarn serve -p 3003 -s build.admin
 
 - apache
 
-  ```
-  <VirtualHost *:8080>
-  ServerName example.com
-  DocumentRoot /var/www/httpd/example.com
+opt/bitnami/apache/conf/httpd.conf
 
-    <Directory "/var/www/httpd/example.com">
-      ...
+```
+<VirtualHost *:8080>
+ServerName example.com
+DocumentRoot /var/www/httpd/example.com
 
-      RewriteEngine On
-      # Don't rewrite files or directories
-      RewriteCond %{REQUEST_FILENAME} -f [OR]
-      RewriteCond %{REQUEST_FILENAME} -d
-      RewriteRule ^ - [L]
-      # Rewrite everything else to index.html to allow html5 state links
-      RewriteRule ^ index.html [L]
-    </Directory>
-  </VirtualHost>
-  ```
+  <Directory "/var/www/httpd/example.com">
+    ...
 
-  sudo service apache2 restart
-  sudo /opt/bitnami/ctlscript.sh restart apache
-  https://stackoverflow.com/questions/44038456/how-to-setup-apache-server-for-react-route
+    RewriteEngine On
+    # Don't rewrite files or directories
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+    # Rewrite everything else to index.html to allow html5 state links
+    RewriteRule ^ index.html [L]
+  </Directory>
+</VirtualHost>
+```
+
+sudo service apache2 restart
+sudo /opt/bitnami/ctlscript.sh restart apache
+https://stackoverflow.com/questions/44038456/how-to-setup-apache-server-for-react-route
+https://raddy.dev/blog/deploy-your-mern-stack-app-on-aws-lightsail-in-minutes/#h-create-virtual-hosts-for-client-server
+https://docs.bitnami.com/aws/apps/wordpress/administration/force-https-apache/
 
 - local build bash
 
