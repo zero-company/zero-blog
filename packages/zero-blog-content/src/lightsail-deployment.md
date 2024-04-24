@@ -204,3 +204,11 @@ https://github.com/TypeStrong/ts-node/issues/2100
 node --loader ts-node/esm ./server.ts
 
 - change lightsail timezone
+
+```
+date
+sudo cp /etc/localtime /etc/localtime.bak
+sudo ln -sf /usr/share/zoneinfo/Region/City /etc/local time
+```
+
+https://www.geeksforgeeks.org/set-the-time-zone-in-amazon-ec2/
