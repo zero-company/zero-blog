@@ -6,6 +6,18 @@
 - https://gogoanime3.co/
 - https://9anime.me/
 
+- https://animekuro.org/
+- https://animetosho.org/
+- https://ssanime.ga/
+- https://darklegends60mb.org/
+- https://goload.pro/
+- https://www2.kickassanime.ro/
+- https://zoro.to/home
+- https://www.shanaproject.com/
+- https://anidex.info/
+- https://www.anirena.com/
+- https://www.mkvshows.in/
+- https://anix.to/home
 - https://myanimelist.net/
 - https://anidb.net/
 - https://trakt.tv/
