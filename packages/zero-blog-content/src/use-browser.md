@@ -69,6 +69,15 @@
 - https://so.stream2watch.sx/tv-channels/
 - http://www.tgun.tv/index.php
 - https://vaughn.live/browse/misc
+- https://kisscartoon.nz/
+- https://www.wcoforever.net/
+- https://kimcartoon.li/
+- https://yts.torrentbay.to/
+- https://ustvgo.tv/
+- https://123chill.to/
+- https://soapgate.cc/
+- https://thetvapp.to/tv
+- https://fmoviesz.to/
 
 ### courses
 
