@@ -58,3 +58,11 @@
 - https://github.com/Igglybuff/awesome-piracy
 - https://cs.rin.ru/forum/
 - https://rentry.org/pgames#emulators
+
+### stream
+
+-
+
+### courses
+
+- https://rutracker.org
