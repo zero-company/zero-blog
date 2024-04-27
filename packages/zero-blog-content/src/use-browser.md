@@ -47,3 +47,12 @@
 
 - https://www.revdl.com/
 - https://sbenny.com/
+
+### Megathread
+
+- https://www.reddit.com/r/FREEMEDIAHECKYEAH/
+- https://www.reddit.com/r/Piracy/wiki/megathread/
+- https://ripped.guide/
+- https://github.com/Igglybuff/awesome-piracy
+- https://cs.rin.ru/forum/
+- https://rentry.org/pgames#emulators
