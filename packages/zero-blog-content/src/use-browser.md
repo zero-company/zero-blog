@@ -91,3 +91,8 @@
 ### courses
 
 - https://rutracker.org
+
+### games
+
+- minecraft ely.by, JigzZero/LJ!#MX6Hav!^9R
+  https://github.com/PibePlayer/MultiMC5-Cracked
