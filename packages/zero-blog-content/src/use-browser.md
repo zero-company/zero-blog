@@ -1,5 +1,13 @@
 ## bookmarks
 
+### shop
+
+- https://shopee.ph/
+- https://www.lazada.com.ph/
+- https://acerrecertified.com/
+- https://www.facebook.com/pchub/
+- https://tipidpc.com/
+
 ### anime
 
 - https://aniwave.to/home
