@@ -6,6 +6,7 @@
 - https://www.lazada.com.ph/
 - https://acerrecertified.com/
 - https://www.facebook.com/pchub/
+- https://www.facebook.com/xunddphilippines
 - https://tipidpc.com/
 
 ### anime
