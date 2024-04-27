@@ -42,3 +42,8 @@
 - https://toonclash.com/
 - https://readm.today/
 - https://mangafox.fun/
+
+### Android
+
+- https://www.revdl.com/
+- https://sbenny.com/
