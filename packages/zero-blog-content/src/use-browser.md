@@ -65,6 +65,10 @@
 - https://cineb.net/
 - http://live94today.com/
 - https://fmovies.to/home
+- https://cytu.be/
+- https://so.stream2watch.sx/tv-channels/
+- http://www.tgun.tv/index.php
+- https://vaughn.live/browse/misc
 
 ### courses
 
