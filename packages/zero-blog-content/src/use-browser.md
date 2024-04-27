@@ -1,5 +1,7 @@
 ## bookmarks
 
+- about:unloads
+
 ### shop
 
 - https://shopee.ph/
@@ -96,3 +98,4 @@
 
 - minecraft ely.by, JigzZero/LJ!#MX6Hav!^9R
   https://github.com/PibePlayer/MultiMC5-Cracked
+  java se 17
