@@ -1,6 +1,6 @@
 ## bookmarks
 
-### anime/manga
+### anime
 
 - https://aniwave.to/home
 - https://gogoanime3.co/
@@ -35,6 +35,8 @@
 - https://nyaa.si/
 - https://1337x.to/
 
+### manga
+
 - https://mangafire.to/user/notification
 - https://mangadex.org/titles/feed
 - https://mangabuddy.com/official
@@ -43,12 +45,12 @@
 - https://readm.today/
 - https://mangafox.fun/
 
-### Android
+### android
 
 - https://www.revdl.com/
 - https://sbenny.com/
 
-### Megathread
+### megathread
 
 - https://www.reddit.com/r/FREEMEDIAHECKYEAH/
 - https://www.reddit.com/r/Piracy/wiki/megathread/
