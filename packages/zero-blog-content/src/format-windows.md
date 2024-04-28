@@ -13,6 +13,7 @@
 
 - discord
 - slack
+- telegram
 
 - firefox
 - chrome
