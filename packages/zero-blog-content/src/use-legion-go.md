@@ -10,3 +10,6 @@ keyboard manager
 ctrl+f8 mute
 ctrl+f9 volume down
 ctrl+f10 volume up
+
+vlc properties, high dpi settings, program dpi check when I open this program
+https://imgur.com/a/nTgsZJn
