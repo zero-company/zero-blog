@@ -18,3 +18,5 @@
 - firefox
 - chrome
 - opera gx
+
+- nodejs
