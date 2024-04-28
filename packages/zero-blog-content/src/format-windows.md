@@ -20,5 +20,5 @@
 - opera gx
 
 - nodejs
-- .NET Desktop Runtime 8.0.4
+- .NET Desktop Runtime 6.0.29
 - directx
