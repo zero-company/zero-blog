@@ -7,3 +7,6 @@ gopher360
 
 powertoys
 keyboard manager
+ctrl+f8 mute
+ctrl+f9 volume down
+ctrl+f10 volume up
