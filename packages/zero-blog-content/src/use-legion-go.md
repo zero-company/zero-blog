@@ -4,3 +4,6 @@ https://download.lenovo.com/pccbbs/pubs/legion_go_8apu1/html_en/index.html#t=EN%
 microsoft powertoys
 
 gopher360
+
+powertoys
+keyboard manager
