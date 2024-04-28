@@ -1,6 +1,7 @@
 ### software
 
 - handbrake
+- mkvtoolnix
 - vlc
 - qbittorrent
 - 7 zip
