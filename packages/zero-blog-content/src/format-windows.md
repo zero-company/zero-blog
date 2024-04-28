@@ -20,3 +20,5 @@
 - opera gx
 
 - nodejs
+- dotnet
+- directx
