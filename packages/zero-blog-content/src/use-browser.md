@@ -90,6 +90,11 @@
 - https://thetvapp.to/tv
 - https://fmoviesz.to/
 
+### movies and tv shows
+
+- https://fmoviesz.to
+- https://cineb.rs/
+
 ### courses
 
 - https://rutracker.org
