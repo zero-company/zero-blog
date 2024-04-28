@@ -34,6 +34,6 @@ ctrl+shift+p
 git pull rebase from feature/fix branch
 git rebase vs merge, use merge
 
-disable auto reveal file explorer
+enable auto reveal file explorer
 
 auto save after delay
