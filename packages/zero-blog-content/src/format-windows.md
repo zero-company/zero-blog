@@ -22,3 +22,4 @@
 - nodejs
 - .NET Desktop Runtime 6.0.29
 - directx
+- choco upgrade chocolatey
