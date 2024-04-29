@@ -10,6 +10,7 @@ https://www.freecodecamp.org/news/simple-chat-application-in-node-js-using-expre
 https://www.reddit.com/r/node/comments/sa7wsw/how_to_scale_a_socketio_server_to_many_concurrent/
 https://blog.logrocket.com/extend-express-request-object-typescript/
 https://aaryanadil.com/pass-socket-io-to-express-routes-in-files/
+https://codeburst.io/isomorphic-web-app-react-js-express-socket-io-e2f03a469cd3
 
 <!-- prettier-ignore-start -->
 app.all('*', (req, res, next) => {
