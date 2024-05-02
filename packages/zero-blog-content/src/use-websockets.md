@@ -20,6 +20,7 @@ https://socket.io/docs/v4/delivery-guarantees
 https://www.google.com/search?client=firefox-b-d&q=socket.io+react+context
 https://dev.to/bravemaster619/how-to-use-socket-io-client-correctly-in-react-app-o65
 https://github.com/pmndrs/zustand/discussions/1651
+https://stackoverflow.com/questions/51372997/socket-io-how-to-send-multiple-messages-sequentially
 
 why even implement websocket if it's too unreliable and you'll end up polling anyway
 Long polling (client pull)
