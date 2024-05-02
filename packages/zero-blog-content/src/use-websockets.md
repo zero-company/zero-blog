@@ -11,6 +11,13 @@ https://www.reddit.com/r/node/comments/sa7wsw/how_to_scale_a_socketio_server_to_
 https://blog.logrocket.com/extend-express-request-object-typescript/
 https://aaryanadil.com/pass-socket-io-to-express-routes-in-files/
 https://codeburst.io/isomorphic-web-app-react-js-express-socket-io-e2f03a469cd3
+https://nexocode.com/blog/posts/websockets-friend-or-foe/
+
+why even implement websocket if it's too unreliable and you'll end up polling anyway
+Long polling (client pull)
+Short polling (client pull)
+Server-Sent Events (server push)
+Real-time database from Firebase (with WebSockets under the hood)
 
 <!-- prettier-ignore-start -->
 app.all('*', (req, res, next) => {
