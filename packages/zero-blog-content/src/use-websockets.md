@@ -17,6 +17,9 @@ https://medium.com/@selieshjksofficial/crafting-reliable-socket-io-code-e062405c
 https://stackoverflow.com/questions/25023118/is-socket-io-a-reliable-chat-server-for-large-number-of-users-if-yes-whats-you
 https://socket.io/docs/v4/delivery-guarantees
 
+https://www.google.com/search?client=firefox-b-d&q=socket.io+react+context
+https://dev.to/bravemaster619/how-to-use-socket-io-client-correctly-in-react-app-o65
+
 why even implement websocket if it's too unreliable and you'll end up polling anyway
 Long polling (client pull)
 Short polling (client pull)
