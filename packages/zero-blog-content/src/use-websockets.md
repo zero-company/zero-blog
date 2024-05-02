@@ -12,6 +12,7 @@ https://blog.logrocket.com/extend-express-request-object-typescript/
 https://aaryanadil.com/pass-socket-io-to-express-routes-in-files/
 https://codeburst.io/isomorphic-web-app-react-js-express-socket-io-e2f03a469cd3
 https://nexocode.com/blog/posts/websockets-friend-or-foe/
+https://www.reddit.com/r/AskProgramming/comments/11szztb/why_is_it_that_websockets_havent_seen_much/
 
 why even implement websocket if it's too unreliable and you'll end up polling anyway
 Long polling (client pull)
