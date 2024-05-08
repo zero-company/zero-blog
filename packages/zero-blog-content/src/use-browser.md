@@ -104,3 +104,9 @@
 - minecraft ely.by, JigzZero/LJ!#MX6Hav!^9R
   https://github.com/PibePlayer/MultiMC5-Cracked
   java se 17
+- https://igg-games.com/
+- https://www.epicgames.com/
+- https://dodi-repacks.site/
+- https://fitgirl-repacks.site/
+- https://game-repack.site/
+- https://1337x.to/
