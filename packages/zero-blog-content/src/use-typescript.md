@@ -1,3 +1,7 @@
 ts-node unexpected token 'export'
 exports is not defined in ES module scope
 https://github.com/TypeStrong/ts-node/issues/935
+use tsx typescriptexecute
+
+array, undefined is not assignable to type
+https://github.com/microsoft/TypeScript/issues/55206
