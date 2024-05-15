@@ -8,3 +8,5 @@ https://github.com/microsoft/TypeScript/issues/55206
 
 How to Setup Node.js with TypeScript in 2023
 https://www.youtube.com/watch?v=H91aqUHn8sE
+
+https://fab1o.medium.com/named-parameters-in-typescript-288d90f35639
