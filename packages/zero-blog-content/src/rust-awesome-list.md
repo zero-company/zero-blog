@@ -33,3 +33,7 @@ List of all things rust
 - Mdbook - Create book from markdown files\
   [https://rust-lang.github.io/mdBook](https://rust-lang.github.io/mdBook)\
   [https://github.com/rust-lang/mdBook](https://github.com/rust-lang/mdBook)
+
+### Open Source Projects
+
+- https://github.com/dividebysandwich/shareboxx
