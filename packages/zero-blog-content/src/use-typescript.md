@@ -15,3 +15,5 @@ youtube lydia halli
 
 implicit testing
 web dev simplified
+
+be careful with select defaultvalues and delayed render, just use value
