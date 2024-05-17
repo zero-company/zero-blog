@@ -13,6 +13,9 @@ https://fab1o.medium.com/named-parameters-in-typescript-288d90f35639
 
 youtube lydia halli
 
+foundations are everything, fundamentals
+https://www.epicweb.dev/why-i-wont-use-nextjs
+
 implicit testing
 web dev simplified
 
