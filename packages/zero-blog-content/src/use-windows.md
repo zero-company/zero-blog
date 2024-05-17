@@ -54,3 +54,5 @@ custom profile on lowest tdp
 
 set power button to shutdown instead of sleep
 Select Search on the taskbar, type control panel, and select it from the results. Select System and Security. In the Power Options section, select Change what the power buttons do. Select Change settings that are currently unavailable.
+
+unlock with file locksmith, end task that's locking files
