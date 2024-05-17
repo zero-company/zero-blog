@@ -18,3 +18,5 @@ web dev simplified
 
 be careful with select defaultvalues and delayed render, just use value, useEffect bug
 https://github.com/react-hook-form/react-hook-form/issues/1558
+
+https://www.epicweb.dev/why-i-wont-use-nextjs
