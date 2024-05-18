@@ -13,3 +13,5 @@ ctrl+f10 volume up
 
 vlc properties, high dpi settings, program dpi check when I open this program
 https://imgur.com/a/nTgsZJn
+
+joytokey
