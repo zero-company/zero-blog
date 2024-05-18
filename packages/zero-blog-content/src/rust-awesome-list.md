@@ -37,3 +37,7 @@ List of all things rust
 ### Open Source Projects
 
 - https://github.com/dividebysandwich/shareboxx
+
+### Axum
+
+- https://dev.to/yexiyue/axumseaormasync-graphql-building-a-graphql-service-from-scratch-52kk
