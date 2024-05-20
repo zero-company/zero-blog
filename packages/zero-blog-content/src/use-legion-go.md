@@ -19,4 +19,4 @@ joytokey
 shift to y3 for vertical scrolling
 
 thin backpack strap belt buckle
-necklace wide thin strap lockable
+necklace wide thin flat id lace strap lockable lanyard, sewn or stiched together
