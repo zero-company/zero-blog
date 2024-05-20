@@ -17,3 +17,6 @@ https://imgur.com/a/nTgsZJn
 joytokey
 
 shift to y3 for vertical scrolling
+
+thin backpack strap belt buckle
+necklace wide thin strap lockable
