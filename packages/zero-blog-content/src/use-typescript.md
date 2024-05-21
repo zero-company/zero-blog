@@ -23,3 +23,10 @@ be careful with select defaultvalues and delayed render, just use value, useEffe
 https://github.com/react-hook-form/react-hook-form/issues/1558
 
 https://www.epicweb.dev/why-i-wont-use-nextjs
+
+never[] incompatible with IServiceMeta[]
+const initialInputs = {
+counterName: '',
+service: [] as IServiceMeta[],
+priorityLevel: InitialPriorityLevelsString[0],
+}
