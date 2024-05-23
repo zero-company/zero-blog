@@ -41,3 +41,4 @@ List of all things rust
 ### Axum
 
 - https://dev.to/yexiyue/axumseaormasync-graphql-building-a-graphql-service-from-scratch-52kk
+- https://oliverjumpertz.com/blog/how-to-build-a-powerful-graphql-api-with-rust/
