@@ -39,3 +39,5 @@ enable auto reveal file explorer
 auto save after delay
 
 disable editor sticky scroll
+
+disable explorer:compact folders
