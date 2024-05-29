@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=FVmxtmzyrSw
 http only cookies
 
 passport
+lucia auth
+
+Oh, Auth Doesn't Have to Suck?
+https://www.youtube.com/watch?v=S37uRvBr65k
