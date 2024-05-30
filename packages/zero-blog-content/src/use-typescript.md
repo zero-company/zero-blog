@@ -30,3 +30,5 @@ counterName: '',
 service: [] as IServiceMeta[],
 priorityLevel: InitialPriorityLevelsString[0],
 }
+
+https://github.com/skillrecordings/products
