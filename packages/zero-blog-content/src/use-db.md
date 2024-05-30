@@ -18,3 +18,7 @@ https://blog.devgenius.io/seaography-a-quick-dive-into-graphql-for-rust-backend-
 schema designing
 figma
 excalidraw
+
+text editor
+hide line breakpoints, glyph margin
+hide line numbers, keep for easier resizing in touchscreen
