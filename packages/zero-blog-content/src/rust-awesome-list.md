@@ -44,3 +44,6 @@ List of all things rust
 - https://oliverjumpertz.com/blog/how-to-build-a-powerful-graphql-api-with-rust/
 - https://logankeenan.com/posts/rust-axum-and-cloudflare-workers/
 - https://medium.com/intelliconnect-engineering/creating-serverless-api-using-cloudflare-workers-and-rust-71757c961053
+
+- https://www.yieldcode.blog/post/supercharge-nodejs-with-rust/
+- https://neon-bindings.com
