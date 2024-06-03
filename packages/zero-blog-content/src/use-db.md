@@ -26,3 +26,7 @@ hide line numbers, keep for easier resizing in touchscreen
 https://dev.to/yexiyue/axumseaormasync-graphql-building-a-graphql-service-from-scratch-52kk
 SeaORM - Introduction to Axum 0.5
 https://www.youtube.com/watch?v=AWp-q95JGOM
+
+
+redefine database
+you don't store data in databases, you store indexes to data in database for faster filtering or searching
