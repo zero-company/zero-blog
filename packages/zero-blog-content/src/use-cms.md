@@ -6,3 +6,4 @@ strapi cms
 dato cms
 
 https://www.reddit.com/r/nextjs/comments/10acm0j/best_self_hosting_cms/
+https://github.com/payloadcms/payload/discussions/287
