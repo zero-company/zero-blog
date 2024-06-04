@@ -27,6 +27,9 @@ https://dev.to/yexiyue/axumseaormasync-graphql-building-a-graphql-service-from-s
 SeaORM - Introduction to Axum 0.5
 https://www.youtube.com/watch?v=AWp-q95JGOM
 
-
 redefine database
 you don't store data in databases, you store indexes to data in database for faster filtering or searching
+
+## use mongodb
+
+delete deprecated unique indexes when removing unique fields
