@@ -33,3 +33,8 @@ priorityLevel: InitialPriorityLevelsString[0],
 
 https://github.com/skillrecordings/products
 https://github.com/vercel/turbo/tree/main/examples/kitchen-sink
+
+https://steveholgado.com/typescript-types-from-arrays/
+https://github.com/microsoft/TypeScript/issues/28046
+const animals = ['cat', 'dog', 'mouse'] as const
+type Animal = (typeof animals)[number]
