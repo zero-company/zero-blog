@@ -38,3 +38,20 @@ https://steveholgado.com/typescript-types-from-arrays/
 https://github.com/microsoft/TypeScript/issues/28046
 const animals = ['cat', 'dog', 'mouse'] as const
 type Animal = (typeof animals)[number]
+
+https://stackoverflow.com/questions/45894524/getting-type-of-a-property-of-a-typescript-class-using-keyof-operator
+type BarType = FooType['bar'];
+type FooType = {
+bar: string;
+}
+
+array reduce
+const array1 = [1, 2, 3, 4];
+// 0 + 1 + 2 + 3 + 4
+const initialValue = 0;
+const sumWithInitial = array1.reduce(
+(accumulator, currentValue) => accumulator + currentValue,
+initialValue,
+);
+console.log(sumWithInitial);
+// Expected output: 10
