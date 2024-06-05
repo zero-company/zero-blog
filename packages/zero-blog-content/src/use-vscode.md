@@ -22,6 +22,8 @@ vscode settings
 ```
 
 vscode fold comment blocks, regions
+//#region <REGION NAME>
+//#endregion
 
 auto push commits
 post commit command, push
