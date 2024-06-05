@@ -33,3 +33,5 @@ you don't store data in databases, you store indexes to data in database for fas
 ## use mongodb
 
 delete deprecated unique indexes when removing unique fields
+
+archiving guide to frozen slow backup database
