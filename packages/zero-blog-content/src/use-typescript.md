@@ -55,3 +55,25 @@ initialValue,
 );
 console.log(sumWithInitial);
 // Expected output: 10
+
+- use memo
+  http://www.shuang.email/question/9;jsessionid=F8FD2C94338987BCE430BD19DA859842
+
+```
+    const Team = ({ id, name, active }) => {
+    // memoize calling `createTeam` because it's
+    // an expensive operation
+    const team = useMemo(() => createTeam({ id, name, active }), [
+     id,
+     name,
+     active,
+    ])
+    const [players, setPlayers] = useState([])
+    useEffect(() => {
+     if (team.active) {
+       getPlayers(team).then(setPlayers)
+     }
+    }, [team])
+    return <Players team={team} players={players} />
+    }
+```
