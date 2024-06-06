@@ -40,6 +40,10 @@ ssh-keygen -o -t rsa -C "jigzpalillo@gmail.com"
 git clone git@github.com:my-org/my-repo.git
 ```
 
+## api
+
+clone project/s to `/home/bitnami`
+
 ## MongoDB
 
 Setup
