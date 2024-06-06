@@ -10,6 +10,7 @@ ssh -i boc-queue-dev-lightsail.pem bitnami@13.239.23.127
 ssh -i boc-queue-dev-lightsail.pem bitnami@13.210.182.8
 ssh -i test-project-dev-lightsail.pem bitnami@111.222.333.444
 chmod 600 test-project-dev-lightsail.pem
+exit
 ```
 
 you can also open ssh connection remotely on the browser via aws console
