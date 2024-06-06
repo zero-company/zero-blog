@@ -44,6 +44,19 @@ git clone git@github.com:my-org/my-repo.git
 
 clone project/s to `/home/bitnami`
 
+```
+yarn install
+yarn start:api
+```
+
+```
+MONGODB_URI= "mongodb://0.0.0.0:27017" # Must not be localhost
+MONGODB_DATABASE= "boc_queue_mongodb_local"
+MONGODB_USER= "admin"
+MONGODB_PASS= "admin"
+PORT= "3001"
+```
+
 ## MongoDB
 
 Setup
