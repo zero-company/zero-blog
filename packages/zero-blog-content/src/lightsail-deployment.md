@@ -29,6 +29,10 @@ Ctrl+Shift+P > Remote-SSH: Connect to Host... > Configure SSH Hosts... > `C:\Use
 
 ```
 sudo apt-get update
+node -v
+which node, /opt/bitnami/node/bin/node
+
+
 ```
 
 ## Git
