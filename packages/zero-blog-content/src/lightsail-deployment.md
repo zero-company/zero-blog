@@ -159,6 +159,7 @@ https://docs.bitnami.com/aws/apps/wordpress/administration/force-https-apache/
 
 ```
 export REACT_APP_API_URI=http://13.210.182.8:3001/api/ && yarn build:combinecsr --force
+export REACT_APP_API_URI=http://localhost:3001/api/ && yarn build:combinecsr --force
 ```
 
 place build in `opt/bitnami/apache/htdocs`
