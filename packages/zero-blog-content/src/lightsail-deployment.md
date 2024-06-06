@@ -3,7 +3,7 @@
 Download and move generated ssh key upon instance creation to `C:\Users\yourusername\.ssh`.
 Default password can be found in `home/bitnami/bitnami_application_password`
 
-- SSH Connect
+## SSH Connect
 
 ```
 ssh -i boc-queue-dev-lightsail.pem bitnami@13.210.182.8
@@ -23,13 +23,13 @@ Ctrl+Shift+P > Remote-SSH: Connect to Host... > Configure SSH Hosts... > `C:\Use
   User bitnami
 ```
 
-- Update
+## Update
 
 ```
 sudo apt-get update
 ```
 
-- Git
+## Git
 
 To clone private github repo inside lightsail, generate ssh key which can be found in `home/bitnami/.ssh/id_rsa.pub`, Add to private github repo deploy keys.
 
@@ -38,7 +38,7 @@ ssh-keygen -o -t rsa -C "jigzpalillo@gmail.com"
 git clone git@github.com:my-org/my-repo.git
 ```
 
-- MongoDB
+## MongoDB
 
 Setup
 
@@ -55,14 +55,14 @@ show dbs, show collections
 exit
 ```
 
-Port forwarding for Compass
+### Port forwarding for Compass
 
 ```
 ssh -i test-project-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
 ssh -i boc-queue-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
 ```
 
-- PM2
+## PM2
 
 ```
 sudo yarn global add pm2
@@ -72,7 +72,7 @@ pm2 ls
 pm2 monit
 ```
 
-- Install Docker Compose
+## Install Docker Compose
 
 ```
 sudo apt-get install -y \
@@ -85,7 +85,7 @@ sudo apt-get install -y \
 curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
 ```
 
-- nginx
+## nginx
 
 ```
 uname -a
@@ -95,9 +95,10 @@ sudo apt-get purge nginx nginx-common
 sudo apt-get autoremove
 ```
 
-- lightsail
-  networking firewall
-  Custom TCP 3001
+## lightsail
+
+networking firewall
+Custom TCP 3001
 
 - serve
 
@@ -141,18 +142,18 @@ https://stackoverflow.com/questions/44038456/how-to-setup-apache-server-for-reac
 https://raddy.dev/blog/deploy-your-mern-stack-app-on-aws-lightsail-in-minutes/#h-create-virtual-hosts-for-client-server
 https://docs.bitnami.com/aws/apps/wordpress/administration/force-https-apache/
 
-- local build bash
+## local build bash
 
-  ```
-  export REACT_APP_API_URI=http://13.210.182.8:3001/api/ && yarn build:combinecsr --force
-  ```
+```
+export REACT_APP_API_URI=http://13.210.182.8:3001/api/ && yarn build:combinecsr --force
+```
 
-  place build in `opt/bitnami/apache/htdocs`
+place build in `opt/bitnami/apache/htdocs`
 
-  ```
-  yarn install
-  yarn start:api
-  ```
+```
+yarn install
+yarn start:api
+```
 
 - screen management
 
@@ -188,7 +189,7 @@ sudo /opt/bitnami/ctlscript.sh restart apache
 
 - yarn build --filter=boc_queue_schema
 
-- api env mongoose
+## api env mongoose
 
 ```
 MONGODB_URI= "mongodb://0.0.0.0:27017" # Must not be localhost
@@ -203,7 +204,7 @@ https://stackoverflow.com/questions/62096269/cant-run-my-node-js-typescript-proj
 https://github.com/TypeStrong/ts-node/issues/2100
 node --loader ts-node/esm ./server.ts
 
-- change lightsail timezone
+## change lightsail timezone
 
 ```
 date
