@@ -46,7 +46,16 @@ clone project/s to `/home/bitnami`
 
 ```
 yarn install
+screen -S api
 yarn start:api
+```
+
+- envs
+
+```
+cp ./packages/envs/.env.boc_queue_dev_api apps/boc_queue_api/.env
+cp ./packages/envs/.env.boc_queue_dev_admin apps/boc_queue_admin/.env
+cp ./packages/envs/.env.boc_queue_dev_terminal apps/boc_queue_terminal/.env
 ```
 
 ```
