@@ -65,6 +65,16 @@ ssh -i test-project-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.2
 ssh -i boc-queue-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
 ```
 
+- close
+
+https://serverfault.com/questions/1105680/close-kill-a-ssh-local-port-forwarding-connection-no-controlpath-specified-for
+
+```
+lsof -i tcp:[PORT]
+netstat -bno 3801
+netstat -aof | findstr :3801
+```
+
 ## PM2
 
 ```
