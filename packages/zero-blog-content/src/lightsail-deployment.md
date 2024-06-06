@@ -6,7 +6,7 @@ Default password can be found in `home/bitnami/bitnami_application_password`
 ## SSH Connect
 
 ```
-ssh -i boc-queue-dev-lightsail.pem bitnami@13.239.23.127
+ssh -i boc-queue-dev-lightsail.pem bitnami@3.26.63.139
 ssh -i boc-queue-dev-lightsail.pem bitnami@13.210.182.8
 ssh -i test-project-dev-lightsail.pem bitnami@111.222.333.444
 chmod 600 test-project-dev-lightsail.pem
@@ -60,7 +60,7 @@ exit
 ### Port forwarding for Compass
 
 ```
-ssh -i boc-queue-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.239.23.127
+ssh -i boc-queue-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@3.26.63.139
 ssh -i test-project-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
 ssh -i boc-queue-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
 ```
