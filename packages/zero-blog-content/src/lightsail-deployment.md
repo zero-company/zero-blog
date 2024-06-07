@@ -91,7 +91,7 @@ exit
 ### Port forwarding for Compass
 
 ```
-ssh -i boc-queue-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@3.26.63.139
+ssh -i boc-queue-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@3.25.113.34
 ssh -i test-project-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
 ssh -i boc-queue-dev-lightsail.pem -N -f -L 3801:localhost:27017 bitnami@13.210.182.8
 ```
