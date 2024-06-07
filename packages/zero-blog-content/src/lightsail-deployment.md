@@ -51,6 +51,7 @@ clone project/s to `/home/bitnami`
 ```
 yarn install
 screen -S api
+yarn turbo build --filter=schema --force
 yarn start:api
 ```
 
