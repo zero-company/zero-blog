@@ -257,3 +257,8 @@ sudo ln -sf /usr/share/zoneinfo/Australia/Sydney /etc/localtime
 ```
 
 https://www.geeksforgeeks.org/set-the-time-zone-in-amazon-ec2/
+
+## known bugs
+
+https://github.com/TypeStrong/ts-node/issues/2026
+https://github.com/TypeStrong/ts-node/issues/2085
