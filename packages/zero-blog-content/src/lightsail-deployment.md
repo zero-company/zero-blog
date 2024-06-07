@@ -195,11 +195,6 @@ export REACT_APP_API_URI=http://127.0.0.1:3001/api/ && yarn build:combinecsr --f
 
 place build in `opt/bitnami/apache/htdocs`
 
-```
-yarn install
-yarn start:api
-```
-
 - screen management
 
   ```
