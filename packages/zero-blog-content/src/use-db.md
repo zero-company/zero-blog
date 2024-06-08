@@ -46,3 +46,4 @@ https://github.com/orgs/supabase/discussions/4161
 
 https://dev.to/yexiyue/axumseaormasync-graphql-building-a-graphql-service-from-scratch-52kk
 https://github.com/SeaQL/sea-orm/tree/master/examples/graphql_example
+https://dev.to/aaronleopold/starter-axum-graphql-and-seaorm-template-3bnf
