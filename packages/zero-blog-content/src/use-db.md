@@ -43,3 +43,6 @@ https://github.com/orgs/supabase/discussions/4161
 postgres://postgres.[MY-DATABASE]:[MY-PASSWORD]@aws-0-us-east-1.pooler.supabase.com:5432/postgres?connect_timeout=300
 jdbc:postgresql://aws-0-ap-northeast-1.pooler.supabase.com:6543/postgres?user=postgres.rmhnigubqggewkayqsel&password=[YOUR-PASSWORD]
 https://github.com/orgs/supabase/discussions/4161
+
+https://dev.to/yexiyue/axumseaormasync-graphql-building-a-graphql-service-from-scratch-52kk
+https://github.com/SeaQL/sea-orm/tree/master/examples/graphql_example
