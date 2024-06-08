@@ -35,3 +35,11 @@ you don't store data in databases, you store indexes to data in database for fas
 delete deprecated unique indexes when removing unique fields
 
 archiving guide to frozen slow backup database
+
+## supabase
+
+dbeaver ipv6 connection bug
+https://github.com/orgs/supabase/discussions/4161
+postgres://postgres.[MY-DATABASE]:[MY-PASSWORD]@aws-0-us-east-1.pooler.supabase.com:5432/postgres?connect_timeout=300
+jdbc:postgresql://aws-0-ap-northeast-1.pooler.supabase.com:6543/postgres?user=postgres.rmhnigubqggewkayqsel&password=[YOUR-PASSWORD]
+https://github.com/orgs/supabase/discussions/4161
