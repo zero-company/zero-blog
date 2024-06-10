@@ -80,5 +80,7 @@ console.log(sumWithInitial);
 
 # expressjs logging
 
-morgan
+morgan, 4 years ago last commit
+pino
 winston
+
