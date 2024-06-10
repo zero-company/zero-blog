@@ -77,10 +77,3 @@ console.log(sumWithInitial);
     return <Players team={team} players={players} />
     }
 ```
-
-# expressjs logging
-
-morgan, 4 years ago last commit
-pino
-winston
-
