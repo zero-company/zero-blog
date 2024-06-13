@@ -5,6 +5,7 @@ gestures slide right or left to open sidebar
 alert should display both client side message and server side api response message, find universal template for response data and message
 
 https://tailgrids.com/components/buttons
+https://tailgrids.com/license
 https://tailwindcomponents.com/cheatsheet/
 
 https://tailwindui.com/components
