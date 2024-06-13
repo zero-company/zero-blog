@@ -77,3 +77,5 @@ console.log(sumWithInitial);
     return <Players team={team} players={players} />
     }
 ```
+
+https://github.com/soldair/node-qrcode
