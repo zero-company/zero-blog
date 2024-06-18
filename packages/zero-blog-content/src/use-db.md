@@ -48,3 +48,4 @@ https://dev.to/yexiyue/axumseaormasync-graphql-building-a-graphql-service-from-s
 https://github.com/SeaQL/sea-orm/tree/master/examples/graphql_example
 https://dev.to/aaronleopold/starter-axum-graphql-and-seaorm-template-3bnf
 https://github.com/Colt45s/axum-graphql
+https://github.com/SeaQL/sea-orm-tutorial/tree/master/graphql-example

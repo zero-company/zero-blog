@@ -25,3 +25,5 @@ radix ui
 https://github.com/shadcn/ui, great abstraction
 https://github.com/sek-consulting/solid-ui-components
 https://github.com/kobaltedev/kobalte
+
+Only display qr code, do not allow insecure input of credit card details on public kiosk
