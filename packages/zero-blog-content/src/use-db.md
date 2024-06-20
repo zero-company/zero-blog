@@ -49,3 +49,7 @@ https://github.com/SeaQL/sea-orm/tree/master/examples/graphql_example
 https://dev.to/aaronleopold/starter-axum-graphql-and-seaorm-template-3bnf
 https://github.com/Colt45s/axum-graphql
 https://github.com/SeaQL/sea-orm-tutorial/tree/master/graphql-example
+
+mongodb id generator
+https://observablehq.com/@hugodf/mongodb-objectid-generator
+https://gist.github.com/solenoid/1372386
