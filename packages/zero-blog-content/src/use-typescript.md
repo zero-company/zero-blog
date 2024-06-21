@@ -79,3 +79,27 @@ console.log(sumWithInitial);
 ```
 
 https://github.com/soldair/node-qrcode
+
+https://stackoverflow.com/questions/47892127/succinct-concise-syntax-for-optional-object-keys-in-es6-es7
+...flag1 && { optionalKey1: 5 },
+let flag1 = true;
+let flag2 = false;
+// extra cases added by Abdull
+let optionalKey8 = 8;
+let optionalKey9 = undefined;
+let optionalKey10 = false;
+let optionalKey11 = null;
+let optionalKey12 = "twelve";
+const obj = { 
+  requiredKey1: 1, 
+  requiredKey2: 2,
+  ...(flag1 && { optionalKey3: 3 }),
+  ...(flag2 && { optionalKey4: 4, optionalKey5: 5 }),  // ignored
+  ...(flag1 && { optionalKey6: 6, optionalKey7: 7 }),
+  ...(optionalKey8 && { optionalKey8 }),
+  ...(optionalKey9 && { optionalKey9 }), // ignored
+  ...(optionalKey10 && { optionalKey10 }), // ignored
+  ...(optionalKey11 && { optionalKey11 }), // ignored
+  ...(optionalKey12 && { optionalKey12 })
+};
+console.log(obj);
