@@ -53,3 +53,5 @@ https://github.com/SeaQL/sea-orm-tutorial/tree/master/graphql-example
 mongodb id generator
 https://observablehq.com/@hugodf/mongodb-objectid-generator
 https://gist.github.com/solenoid/1372386
+
+https://github.com/watscho/express-mongodb-rest-api-boilerplate
