@@ -90,19 +90,22 @@ let optionalKey9 = undefined;
 let optionalKey10 = false;
 let optionalKey11 = null;
 let optionalKey12 = "twelve";
-const obj = { 
-  requiredKey1: 1, 
-  requiredKey2: 2,
-  ...(flag1 && { optionalKey3: 3 }),
-  ...(flag2 && { optionalKey4: 4, optionalKey5: 5 }),  // ignored
-  ...(flag1 && { optionalKey6: 6, optionalKey7: 7 }),
-  ...(optionalKey8 && { optionalKey8 }),
-  ...(optionalKey9 && { optionalKey9 }), // ignored
-  ...(optionalKey10 && { optionalKey10 }), // ignored
-  ...(optionalKey11 && { optionalKey11 }), // ignored
-  ...(optionalKey12 && { optionalKey12 })
+const obj = {
+requiredKey1: 1,
+requiredKey2: 2,
+...(flag1 && { optionalKey3: 3 }),
+...(flag2 && { optionalKey4: 4, optionalKey5: 5 }), // ignored
+...(flag1 && { optionalKey6: 6, optionalKey7: 7 }),
+...(optionalKey8 && { optionalKey8 }),
+...(optionalKey9 && { optionalKey9 }), // ignored
+...(optionalKey10 && { optionalKey10 }), // ignored
+...(optionalKey11 && { optionalKey11 }), // ignored
+...(optionalKey12 && { optionalKey12 })
 };
 console.log(obj);
 
+turbo start --filter=boc_queue_api
+
 # express
-  https://github.com/w3tecch/express-typescript-boilerplate
+
+https://github.com/w3tecch/express-typescript-boilerplate
