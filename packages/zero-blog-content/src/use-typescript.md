@@ -110,3 +110,6 @@ turbo start --filter=boc_queue_api
 
 https://github.com/w3tecch/express-typescript-boilerplate
 https://www.geeksforgeeks.org/explain-error-handling-in-express-js-using-an-example/
+
+ERR_REQUIRE_ESM
+https://antfu.me/posts/publish-esm-and-cjs
