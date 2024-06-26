@@ -7,6 +7,7 @@
   - medical grade vacuum
 - asus
 - streamlabs
+- huawei
 
 # recommend brands
 - ridgid
