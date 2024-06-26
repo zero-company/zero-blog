@@ -1,4 +1,4 @@
-## ban
+# ban
 
 - apple
 - shark vacuum
@@ -7,3 +7,8 @@
   - medical grade vacuum
 - asus
 - streamlabs
+
+# recommend brands
+- ridgid
+- lenovo
+- ? xiaomi
