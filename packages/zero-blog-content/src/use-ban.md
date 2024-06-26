@@ -8,6 +8,8 @@
 - asus
 - streamlabs
 - huawei
+- adobe
+- tesla
 
 # recommend brands
 
