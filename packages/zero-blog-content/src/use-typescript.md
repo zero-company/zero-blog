@@ -131,3 +131,7 @@ https://antfu.me/posts/publish-esm-and-cjs
     "prepublishOnly": "npm run build"
   }
 }
+
+
+args or params
+https://levelup.gitconnected.com/how-to-write-named-parameters-in-typescript-f05d5031dec6
