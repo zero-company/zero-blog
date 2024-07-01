@@ -135,3 +135,8 @@ https://antfu.me/posts/publish-esm-and-cjs
 
 args or params
 https://levelup.gitconnected.com/how-to-write-named-parameters-in-typescript-f05d5031dec6
+
+https://www.basedash.com/blog/generic-arrow-functions-in-typescript
+const identity = <T>(arg: T): T => {
+    return arg;
+}
