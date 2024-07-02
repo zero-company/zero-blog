@@ -140,3 +140,5 @@ https://www.basedash.com/blog/generic-arrow-functions-in-typescript
 const identity = <T>(arg: T): T => {
     return arg;
 }
+https://github.com/microsoft/TypeScript/issues/15713
+const f = <T,>(arg: T): T => {...}
