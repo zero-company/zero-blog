@@ -48,3 +48,5 @@ yarn : File C:\Program Files\nodejs\yarn.ps1 cannot be loaded because running sc
 see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
 https://stackoverflow.com/questions/57673913/vsc-powershell-after-npm-updating-packages-ps1-cannot-be-loaded-because-runnin
 Set-ExecutionPolicy RemoteSigned 
+
+enable git push force
