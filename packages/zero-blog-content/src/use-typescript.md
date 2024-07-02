@@ -142,3 +142,6 @@ const identity = <T>(arg: T): T => {
 }
 https://github.com/microsoft/TypeScript/issues/15713
 const f = <T,>(arg: T): T => {...}
+
+https://stackoverflow.com/questions/28975896/is-there-a-way-to-check-for-both-null-and-undefined
+if (x == null) {
