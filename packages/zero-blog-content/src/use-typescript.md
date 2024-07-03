@@ -147,3 +147,4 @@ https://stackoverflow.com/questions/28975896/is-there-a-way-to-check-for-both-nu
 if (x == null) {
 
 https://express-validator.github.io/docs/
+https://joi.dev
