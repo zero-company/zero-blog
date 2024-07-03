@@ -16,3 +16,4 @@ https://github.com/twidgeapp/twidge
 Prisma, Rust, rspc, React, Typescript, Tauri, Stitches and Radix
 https://github.com/spacedriveapp/spacedrive
 Prisma, Rust, React, TypeScript and Tauri.
+https://github.com/Brendonovich/prisma-client-rust
