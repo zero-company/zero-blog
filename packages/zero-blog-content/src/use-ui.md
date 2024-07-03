@@ -28,3 +28,5 @@ https://github.com/kobaltedev/kobalte
 
 Only display qr code, do not allow insecure input of credit card details on public kiosk
 ideal qrcode sizes
+
+should have padding on browser border, otherwise copy pasting would be hard for text right next to edge of browser
