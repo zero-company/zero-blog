@@ -26,6 +26,13 @@ https://github.com/shadcn/ui, great abstraction
 https://github.com/sek-consulting/solid-ui-components
 https://github.com/kobaltedev/kobalte
 flowbite
+https://www.creative-tim.com/templates/tailwind-dashboard
+https://tailadmin.com/
+notus react
+Material Tailwind Dashboard React
+Soft UI Dashboard Tailwind
+Argon Dashboard 2 Tailwind
+Horizon AI Boilerplate - NextJS + Figma
 
 Only display qr code, do not allow insecure input of credit card details on public kiosk
 ideal qrcode sizes
