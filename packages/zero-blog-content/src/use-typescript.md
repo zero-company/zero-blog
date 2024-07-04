@@ -148,3 +148,5 @@ if (x == null) {
 
 https://express-validator.github.io/docs/
 https://joi.dev
+
+https://github.com/TypeStrong/ts-node/issues/935
