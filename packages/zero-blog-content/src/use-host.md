@@ -17,3 +17,5 @@ https://www.jacobparis.com/content/where-to-host-remix#sst
   - arc
   - aws fargate
   - azure functions
+
+bunny, cloudflare
