@@ -19,3 +19,7 @@ https://www.jacobparis.com/content/where-to-host-remix#sst
   - azure functions
 
 serverless horrors
+
+- pulumi
+  Don't use these services for your SaaS
+  https://www.youtube.com/watch?v=pPtK5KTDcXM
