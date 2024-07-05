@@ -50,3 +50,7 @@ https://stackoverflow.com/questions/57673913/vsc-powershell-after-npm-updating-p
 Set-ExecutionPolicy RemoteSigned 
 
 enable git push force
+
+database client vscode extension
+weijan chen
+https://database-client.com, paid
