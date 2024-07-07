@@ -46,3 +46,5 @@ never offset ui after short delay, misclick just as you were pressing, preloadin
 https://news.ycombinator.com/item?id=33765399
 https://medium.com/@stephenjayakar/frontend-developers-stop-moving-things-that-im-about-to-click-on-5827bc0409b3
 Frontend developers: stop moving things that I’m about to click on
+
+responsively
