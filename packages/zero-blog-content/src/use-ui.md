@@ -41,7 +41,6 @@ should have padding on browser border, otherwise copy pasting would be hard for 
 
 https://tldraw.dev/
 
-
 never offset ui after short delay, misclick just as you were pressing, preloading
 https://news.ycombinator.com/item?id=33765399
 https://medium.com/@stephenjayakar/frontend-developers-stop-moving-things-that-im-about-to-click-on-5827bc0409b3
@@ -50,3 +49,6 @@ Frontend developers: stop moving things that I’m about to click on
 responsively
 
 react-icons
+
+kiosk design guide
+https://yingdesign.medium.com/kiosk-user-interface-ui-design-notes-for-ya-4b58a03240bb
