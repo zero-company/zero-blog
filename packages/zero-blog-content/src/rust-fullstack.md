@@ -17,3 +17,6 @@ Prisma, Rust, rspc, React, Typescript, Tauri, Stitches and Radix
 https://github.com/spacedriveapp/spacedrive
 Prisma, Rust, React, TypeScript and Tauri.
 https://github.com/Brendonovich/prisma-client-rust
+
+ Rust + PostgreSQL = ❤️: Persist to-dos in postgres using SQLx #rustlang #webdevelopment #tutorial 
+https://www.youtube.com/watch?v=Zy6x3rXHBPU
