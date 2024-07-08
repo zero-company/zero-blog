@@ -53,3 +53,6 @@ https://github.com/react-icons/react-icons/issues/594
 
 kiosk design guide
 https://yingdesign.medium.com/kiosk-user-interface-ui-design-notes-for-ya-4b58a03240bb
+
+searchParams
+https://github.com/sindresorhus/query-string
