@@ -150,3 +150,12 @@ https://express-validator.github.io/docs/
 https://joi.dev
 
 https://github.com/TypeStrong/ts-node/issues/935
+
+https://www.webdevolution.com/blog/remove-null-values-from-array-javascript
+const array = [1, 2, 3, null, " ", , undefined, 4, "Text", 0, false, true];
+const removeEmptyValues = array => {
+  const filtered = array.filter(e => e);
+
+  return filtered;
+};
+// returns [ 1 , 2 , 3 , 4 , 'Text' , true ]
