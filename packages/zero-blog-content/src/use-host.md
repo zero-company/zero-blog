@@ -10,7 +10,7 @@ https://www.jacobparis.com/content/where-to-host-remix#sst
   - Fly
   - Render
   - Railway
-  - DigitalOcean
+  - DigitalOcean droplets, $4
 - Other hosts
   - GitHub Pages
   - PartyKit
