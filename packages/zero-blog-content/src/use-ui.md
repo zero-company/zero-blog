@@ -47,6 +47,7 @@ https://medium.com/@stephenjayakar/frontend-developers-stop-moving-things-that-i
 Frontend developers: stop moving things that I’m about to click on
 
 responsively
+sizzy, paid
 
 react-icons
 https://github.com/react-icons/react-icons/issues/594
