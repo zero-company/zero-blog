@@ -20,3 +20,5 @@ https://github.com/Brendonovich/prisma-client-rust
 
  Rust + PostgreSQL = ❤️: Persist to-dos in postgres using SQLx #rustlang #webdevelopment #tutorial 
 https://www.youtube.com/watch?v=Zy6x3rXHBPU
+
+https://minerva.mamansoft.net/%F0%9F%93%98Articles/%F0%9F%93%98Tauri%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6Rust%E3%81%A8TypeScript%E3%81%A7%E3%82%AA%E3%83%AC%E3%82%AA%E3%83%ACSlack%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
