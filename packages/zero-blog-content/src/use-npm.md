@@ -13,4 +13,10 @@ https://github.com/npm/rfcs/pull/217
 https://github.com/npm/rfcs/pull/314
 
 ## pnpm nextjs
-  pnpm create next-app
+
+pnpm create next-app
+
+## use turbo
+
+https://github.com/vercel/turbo/issues/8553
+gitignore, %SystemDrive% bug
