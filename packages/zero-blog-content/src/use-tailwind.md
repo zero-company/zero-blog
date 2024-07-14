@@ -12,3 +12,6 @@ npm install -D prettier prettier-plugin-tailwindcss
 "plugins": ["prettier-plugin-tailwindcss"]
 }
 ```
+
+https://tailwindui.com/
+https://github.com/kiliman/tailwindui-crawler
