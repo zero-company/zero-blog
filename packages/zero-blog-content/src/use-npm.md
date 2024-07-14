@@ -20,3 +20,6 @@ pnpm create next-app
 
 https://github.com/vercel/turbo/issues/8553
 gitignore, %SystemDrive% bug
+
+## pnpm concurrently
+
