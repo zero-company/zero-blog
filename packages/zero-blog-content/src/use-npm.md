@@ -23,3 +23,10 @@ gitignore, %SystemDrive% bug
 
 ## pnpm concurrently
 
+"dev": "concurrently \"pnpm storybook:dev\" \"pnpm next:dev\" \"pnpm lib:dev\"",
+"concurrently": "^8.2.2",
+
+# pnpm nohoist
+
+`pnpm install --shamefully-hoist`
+public-hoist-pattern[]=!@types/react
