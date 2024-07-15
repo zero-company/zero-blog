@@ -114,31 +114,30 @@ https://www.geeksforgeeks.org/explain-error-handling-in-express-js-using-an-exam
 ERR_REQUIRE_ESM
 https://antfu.me/posts/publish-esm-and-cjs
 {
-  "name": "my-cool-package",
-  "main": "./dist/index.js",
-  "module": "./dist/index.mjs",
-  "types": "./dist/index.d.ts",
-  "exports": {
-    ".": {
-      "require": "./dist/index.js",
-      "import": "./dist/index.mjs",
-      "types": "./dist/index.d.ts"
-    }
-  },
-  "scripts": {
-    "build": "tsup src/index.ts --format cjs,esm --dts --clean",
-    "watch": "npm run build -- --watch src",
-    "prepublishOnly": "npm run build"
-  }
+"name": "my-cool-package",
+"main": "./dist/index.js",
+"module": "./dist/index.mjs",
+"types": "./dist/index.d.ts",
+"exports": {
+".": {
+"require": "./dist/index.js",
+"import": "./dist/index.mjs",
+"types": "./dist/index.d.ts"
 }
-
+},
+"scripts": {
+"build": "tsup src/index.ts --format cjs,esm --dts --clean",
+"watch": "npm run build -- --watch src",
+"prepublishOnly": "npm run build"
+}
+}
 
 args or params
 https://levelup.gitconnected.com/how-to-write-named-parameters-in-typescript-f05d5031dec6
 
 https://www.basedash.com/blog/generic-arrow-functions-in-typescript
 const identity = <T>(arg: T): T => {
-    return arg;
+return arg;
 }
 https://github.com/microsoft/TypeScript/issues/15713
 const f = <T,>(arg: T): T => {...}
@@ -154,10 +153,14 @@ https://github.com/TypeStrong/ts-node/issues/935
 https://www.webdevolution.com/blog/remove-null-values-from-array-javascript
 const array = [1, 2, 3, null, " ", , undefined, 4, "Text", 0, false, true];
 const removeEmptyValues = array => {
-  const filtered = array.filter(e => e);
-  const filtered = array.filter(x => x !== null); 
-  // For typescript inferrence
-  // https://stackoverflow.com/questions/43118692/typescript-filter-out-nulls-from-an-array
-  return filtered;
+const filtered = array.filter(e => e);
+const filtered = array.filter(x => x !== null);
+// For typescript inferrence
+// https://stackoverflow.com/questions/43118692/typescript-filter-out-nulls-from-an-array
+return filtered;
 };
 // returns [ 1 , 2 , 3 , 4 , 'Text' , true ]
+
+tsup incremental bug
+update tsconfig.json, `"incremental": false,`
+https://github.com/egoist/tsup/issues/884
