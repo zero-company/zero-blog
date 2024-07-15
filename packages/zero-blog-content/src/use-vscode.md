@@ -44,13 +44,16 @@ disable editor sticky scroll
 
 disable explorer:compact folders
 
-yarn : File C:\Program Files\nodejs\yarn.ps1 cannot be loaded because running scripts is disabled on this system. For more information, 
+yarn : File C:\Program Files\nodejs\yarn.ps1 cannot be loaded because running scripts is disabled on this system. For more information,
 see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
 https://stackoverflow.com/questions/57673913/vsc-powershell-after-npm-updating-packages-ps1-cannot-be-loaded-because-runnin
-Set-ExecutionPolicy RemoteSigned 
+Set-ExecutionPolicy RemoteSigned
 
 enable git push force
 
 database client vscode extension
 weijan chen
 https://database-client.com, paid
+
+"files.eol": "\n"
+https://github.com/Microsoft/vscode/issues/7761
