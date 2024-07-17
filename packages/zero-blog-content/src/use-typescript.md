@@ -164,3 +164,9 @@ return filtered;
 tsup incremental bug
 update tsconfig.json, `"incremental": false,`
 https://github.com/egoist/tsup/issues/884
+
+git clone subdirectory
+downgit
+git sparse
+pnpm dlx create-turbo@latest --example [example-name]
+pnpm dlx create-turbo@latest --example kitchen-sink
