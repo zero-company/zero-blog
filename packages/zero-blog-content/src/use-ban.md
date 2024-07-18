@@ -10,6 +10,7 @@
 - huawei
 - adobe
 - tesla
+- cubao lcd republic laptop service center
 
 # recommend brands
 
