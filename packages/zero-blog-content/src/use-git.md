@@ -11,3 +11,4 @@ git push force
 degit
 pnpm create next-app new-next-app
 pnpm dlx create-turbo@latest --example [example-name]
+pnpm dlx degit https://github.com/payloadcms/payload-3.0-demo
