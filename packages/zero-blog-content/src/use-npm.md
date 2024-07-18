@@ -32,10 +32,3 @@ gitignore, %SystemDrive% bug
 
 `pnpm install --shamefully-hoist`
 public-hoist-pattern[]=!@types/react
-
-
-## start project, clone project example subdirectory template
-
-degit
-pnpm create next-app new-next-app
-pnpm dlx create-turbo@latest --example [example-name]
