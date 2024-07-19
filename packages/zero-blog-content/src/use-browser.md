@@ -63,6 +63,7 @@
 
 ### megathread
 
+- https://everythingmoe.com/
 - https://www.reddit.com/r/FREEMEDIAHECKYEAH/
 - https://www.reddit.com/r/Piracy/wiki/megathread/
 - https://ripped.guide/
