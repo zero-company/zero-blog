@@ -55,3 +55,5 @@ https://observablehq.com/@hugodf/mongodb-objectid-generator
 https://gist.github.com/solenoid/1372386
 
 https://github.com/watscho/express-mongodb-rest-api-boilerplate
+
+dry run graphql api database create for seeding if there are any id or unique field conflicts
