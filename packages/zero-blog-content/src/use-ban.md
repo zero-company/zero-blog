@@ -11,6 +11,7 @@
 - adobe
 - tesla
 - cubao lcd republic laptop service center
+- newegg
 
 # recommend brands
 
