@@ -1,8 +1,10 @@
 # DB Hosting
 
 - planetscale, no more free tier
-- supabase
+- supabase, free, $25
 - neon
+- railway, $5
+- render
 
 # App Hosting
 
