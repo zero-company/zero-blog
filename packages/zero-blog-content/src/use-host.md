@@ -4,7 +4,7 @@
 - supabase, free, $25
 - neon
 - railway, $5
-- render
+- render, $7
 
 # App Hosting
 
