@@ -1,4 +1,10 @@
-https://www.jacobparis.com/content/where-to-host-remix#sst
+# DB Hosting
+
+- planetscale, no more free tier
+- supabase
+- neon
+
+# App Hosting
 
 - Serverless functions
   - Vercel
@@ -23,3 +29,7 @@ serverless horrors
 - pulumi
   Don't use these services for your SaaS
   https://www.youtube.com/watch?v=pPtK5KTDcXM
+
+# References
+
+- https://www.jacobparis.com/content/where-to-host-remix#sst
