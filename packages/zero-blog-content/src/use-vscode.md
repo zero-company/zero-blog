@@ -57,3 +57,7 @@ https://database-client.com, paid
 
 "files.eol": "\n"
 https://github.com/Microsoft/vscode/issues/7761
+
+# comment multiple highlighted lines vscode shortcut
+
+ctrl + /
