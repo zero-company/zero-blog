@@ -7,3 +7,6 @@ https://www.pwabuilder.com/imageGenerator
 # add tailwind and shadcn
 
 https://dev.to/danimydev/tauri-react-shadcnui-1e8
+```
+npx shadcn-ui@latest add button
+```
