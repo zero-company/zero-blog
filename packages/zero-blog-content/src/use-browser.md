@@ -33,6 +33,7 @@
 - https://anidb.net/
 - https://trakt.tv/
 - https://kayoanime.com/
+- https://slogoanime.com/
 - https://www.animetime.pw/
 - https://hi10anime.com/
 - https://anidl.org/
