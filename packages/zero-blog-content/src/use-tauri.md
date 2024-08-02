@@ -28,4 +28,5 @@ https://v2.tauri.app/start/prerequisites/#android
 [System.Environment]::SetEnvironmentVariable("ANDROID_HOME", "$env:LocalAppData\Android\Sdk", "User")
 $VERSION = Get-ChildItem -Name "$env:LocalAppData\Android\Sdk\ndk"
 [System.Environment]::SetEnvironmentVariable("NDK_HOME", "$env:LocalAppData\Android\Sdk\ndk\$VERSION", "User")
+rustup target add aarch64-linux-android armv7-linux-androideabi i686-linux-android x86_64-linux-android
 ```
