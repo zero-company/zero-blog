@@ -23,10 +23,17 @@ https://github.com/r0adkll/upload-google-play
 # deploy
 
 https://v2.tauri.app/start/prerequisites/#android
+
 ```
 [System.Environment]::SetEnvironmentVariable("JAVA_HOME", "C:\Program Files\Android\Android Studio\jbr", "User")
+
+[System.Environment]::SetEnvironmentVariable("ANDROID_HOME", "E:\packages\android-sdk", "User")
+$VERSION = Get-ChildItem -Name "E:\packages\android-sdk\ndk"
+[System.Environment]::SetEnvironmentVariable("NDK_HOME", "E:\packages\android-sdk\ndk\$VERSION", "User")
+
 [System.Environment]::SetEnvironmentVariable("ANDROID_HOME", "$env:LocalAppData\Android\Sdk", "User")
 $VERSION = Get-ChildItem -Name "$env:LocalAppData\Android\Sdk\ndk"
 [System.Environment]::SetEnvironmentVariable("NDK_HOME", "$env:LocalAppData\Android\Sdk\ndk\$VERSION", "User")
+
 rustup target add aarch64-linux-android armv7-linux-androideabi i686-linux-android x86_64-linux-android
 ```
