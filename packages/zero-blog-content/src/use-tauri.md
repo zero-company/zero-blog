@@ -31,6 +31,8 @@ https://v2.tauri.app/start/prerequisites/#android
 $VERSION = Get-ChildItem -Name "E:\packages\android-sdk\ndk"
 [System.Environment]::SetEnvironmentVariable("NDK_HOME", "E:\packages\android-sdk\ndk\$VERSION", "User")
 
+$env:ANDROID_HOME
+
 [System.Environment]::SetEnvironmentVariable("ANDROID_HOME", "$env:LocalAppData\Android\Sdk", "User")
 $VERSION = Get-ChildItem -Name "$env:LocalAppData\Android\Sdk\ndk"
 [System.Environment]::SetEnvironmentVariable("NDK_HOME", "$env:LocalAppData\Android\Sdk\ndk\$VERSION", "User")
