@@ -10,3 +10,9 @@ https://dev.to/danimydev/tauri-react-shadcnui-1e8
 ```
 npx shadcn-ui@latest add button
 ```
+
+# deploy google play github actions ci
+
+https://www.valueof.io/blog/deploying-to-google-play-using-github-actions
+https://github.com/r0adkll/sign-android-release
+https://github.com/r0adkll/upload-google-play
