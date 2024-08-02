@@ -7,6 +7,7 @@ https://www.pwabuilder.com/imageGenerator
 # add tailwind and shadcn
 
 https://dev.to/danimydev/tauri-react-shadcnui-1e8
+
 ```
 npx shadcn-ui@latest add button
 ```
@@ -18,3 +19,13 @@ not officially supported, might go down any time, might be better to do manual r
 https://www.valueof.io/blog/deploying-to-google-play-using-github-actions
 https://github.com/r0adkll/sign-android-release
 https://github.com/r0adkll/upload-google-play
+
+# deploy
+
+https://v2.tauri.app/start/prerequisites/#android
+```
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME", "C:\Program Files\Android\Android Studio\jbr", "User")
+[System.Environment]::SetEnvironmentVariable("ANDROID_HOME", "$env:LocalAppData\Android\Sdk", "User")
+$VERSION = Get-ChildItem -Name "$env:LocalAppData\Android\Sdk\ndk"
+[System.Environment]::SetEnvironmentVariable("NDK_HOME", "$env:LocalAppData\Android\Sdk\ndk\$VERSION", "User")
+```
