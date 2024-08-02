@@ -49,6 +49,12 @@ keytool -genkey -v -keystore $env:USERPROFILE\upload-keystore.jks -storetype JKS
 add to system environment variables, edit PATH
 C:\Program Files\Android\Android Studio\jbr\bin
 
+Update the following
+[project]/src-tauri/gen/android/keystore.properties
+[project]/src-tauri/gen/android/app/build.gradle.kts
+
 # check if identified package name is available on google play
 
 https://market.android.com/details?id=com.rovio.angrybirds
+
+
