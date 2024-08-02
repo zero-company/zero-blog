@@ -61,3 +61,5 @@ https://github.com/Microsoft/vscode/issues/7761
 # comment multiple highlighted lines vscode shortcut
 
 ctrl + /
+
+You can disable the graph visualization of incoming/outgoing changes by toggling the scm.showHistoryGraph setting.
