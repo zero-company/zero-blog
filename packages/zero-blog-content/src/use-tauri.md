@@ -39,3 +39,10 @@ $VERSION = Get-ChildItem -Name "$env:LocalAppData\Android\Sdk\ndk"
 
 rustup target add aarch64-linux-android armv7-linux-androideabi i686-linux-android x86_64-linux-android
 ```
+
+# generate upload key, requires jdk
+```
+keytool -genkey -v -keystore $env:USERPROFILE\upload-keystore.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+```
+add to system environment variables, edit PATH
+C:\Program Files\Android\Android Studio\jbr\bin
