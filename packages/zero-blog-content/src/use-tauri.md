@@ -60,3 +60,6 @@ https://market.android.com/details?id=com.rovio.angrybirds
 
 # privacy policy and terms of service template
 https://github.com/ankane/awesome-legal
+
+# file upload
+  https://uploadthing.com/
