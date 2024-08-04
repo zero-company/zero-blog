@@ -57,9 +57,18 @@ Update the following
 
 https://market.android.com/details?id=com.rovio.angrybirds
 
-
 # privacy policy and terms of service template
+
 https://github.com/ankane/awesome-legal
 
 # file upload
-  https://uploadthing.com/
+
+https://uploadthing.com/
+
+# googe play assets
+
+- Create figma and storybook images
+  - banner feature graphic, Your feature graphic must be a PNG or JPEG, up to 15 MB, and 1,024 px by 500 px
+  - phone screenshots, Upload 2-8 phone screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 320 px and 3,840 px, To be eligible for promotion, include at least 4 screenshots at a minimum of 1080 px on each side.
+  - 7-inch tablet screenshots, Upload up to eight 7-inch tablet screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 320 px and 3,840 px
+  - 10-inch tablet screenshots, Upload up to eight 10-inch tablet screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 1,080 px and 7,680 px
