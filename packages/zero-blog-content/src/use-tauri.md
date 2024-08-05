@@ -22,6 +22,10 @@ https://github.com/r0adkll/upload-google-play
 
 # deploy
 
+```
+pnpm --filter @zero-company/zero-app tauri android init
+```
+
 https://v2.tauri.app/start/prerequisites/#android
 
 ```
