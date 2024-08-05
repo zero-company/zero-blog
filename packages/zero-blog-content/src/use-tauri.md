@@ -27,6 +27,7 @@ pnpm --filter @zero-company/zero-app tauri android init
 ```
 
 https://v2.tauri.app/start/prerequisites/#android
+https://v2.tauri.app/distribute/apk-sign/
 
 ```
 [System.Environment]::SetEnvironmentVariable("JAVA_HOME", "C:\Program Files\Android\Android Studio\jbr", "User")
@@ -55,7 +56,8 @@ C:\Program Files\Android\Android Studio\jbr\bin
 
 Update the following
 [project]/src-tauri/gen/android/keystore.properties
-[project]/src-tauri/gen/android/app/build.gradle.kts
+[project]/src-tauri/gen/android/app/build.gradle.kts, namespace, defaultConfig.applicationId
+tauri.conf.json, identifier
 
 # check if identified package name is available on google play
 
