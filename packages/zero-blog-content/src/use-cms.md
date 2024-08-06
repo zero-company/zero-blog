@@ -13,3 +13,8 @@ user group zeroid permission system, zero index data groups
 importance of having a list of all active and inactive/disable access policies
 default policy for all admins
 policy name: AdminsCanReadOrDelete, list of admins zero-ids
+
+
+# graphql client like useswr
+apollo client
+urql
