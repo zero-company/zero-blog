@@ -35,6 +35,7 @@ Argon Dashboard 2 Tailwind
 Horizon AI Boilerplate - NextJS + Figma
 tailwindui, copy classes from demos
 daisy ui
+https://rewind-ui.dev/
 
 Only display qr code, do not allow insecure input of credit card details on public kiosk
 ideal qrcode sizes
