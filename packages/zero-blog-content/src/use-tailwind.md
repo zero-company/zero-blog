@@ -15,3 +15,7 @@ npm install -D prettier prettier-plugin-tailwindcss
 
 https://tailwindui.com/
 https://github.com/kiliman/tailwindui-crawler
+
+divide-y is being applied on hidden element
+https://github.com/tailwindlabs/tailwindcss/discussions/6442
+sm:-mt-px
