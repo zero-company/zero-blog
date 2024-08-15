@@ -171,5 +171,3 @@ git sparse
 pnpm dlx create-turbo@latest --example [example-name]
 pnpm dlx create-turbo@latest --example kitchen-sink
 
-tanstack query formerly react query
-better than swr for mutation heavy api
