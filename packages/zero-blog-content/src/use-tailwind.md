@@ -19,3 +19,5 @@ https://github.com/kiliman/tailwindui-crawler
 divide-y is being applied on hidden element
 https://github.com/tailwindlabs/tailwindcss/discussions/6442
 sm:-mt-px
+
+https://github.com/tailwindlabs/tailwindcss-typography
