@@ -1,3 +1,8 @@
+## firefox tabs scroll speed
+
+  Go to about:config and change mousewheel.system_scroll_override.enabled to false. 
+  https://www.reddit.com/r/firefox/comments/okwil4/how_to_bring_back_tab_bar_scrolling_speed_as_it/
+
 ## bookmarks
 
 - about:unloads
