@@ -4,6 +4,7 @@
 
 # nextjs redirect
 
+- https://www.geeksforgeeks.org/how-to-redirect-in-next-js/
 - https://github.com/vercel/next.js/discussions/17322
 
 ```
