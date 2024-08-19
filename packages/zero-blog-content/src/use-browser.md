@@ -52,6 +52,9 @@
 - https://nyaa.si/
 - https://1337x.to/
 
+- youtube animeselect
+- youtube myanimelist
+
 ### manga
 
 - https://mangafire.to/user/notification
