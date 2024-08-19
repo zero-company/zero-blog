@@ -24,3 +24,4 @@ https://github.com/tailwindlabs/tailwindcss-typography
 
 # overflow clipped
 justify-center breaks overflow
+https://stackoverflow.com/questions/62288432/problem-when-using-with-overflow-x-scroll-and-justify-content-center
