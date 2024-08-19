@@ -21,3 +21,6 @@ https://github.com/tailwindlabs/tailwindcss/discussions/6442
 sm:-mt-px
 
 https://github.com/tailwindlabs/tailwindcss-typography
+
+# overflow clipped
+justify-center breaks overflow
