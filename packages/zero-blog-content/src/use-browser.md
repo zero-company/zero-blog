@@ -64,6 +64,7 @@
 - https://toonclash.com/
 - https://readm.today/
 - https://mangafox.fun/
+- https://comick.io/
 
 ### android
 
