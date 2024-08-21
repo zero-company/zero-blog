@@ -13,5 +13,5 @@
 </Head>
 ```
 
-- A New Drag And Drop Library For EVERY Framework, autoanimate, swappy
+- A New Drag And Drop Library For EVERY Framework, autoanimate, swappy, react mosaic, dockview
 https://www.youtube.com/watch?v=gaNLnuwoFRI
