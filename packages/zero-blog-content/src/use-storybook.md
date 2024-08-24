@@ -10,3 +10,11 @@
 
 - https://github.com/storybookjs/storybook/issues/1291
 - https://github.com/storybookjs/storybook/issues/1291#issuecomment-795251283
+
+# Failed to load static files, no such directory
+
+`.storybook/main.ts`
+
+```
+staticDirs: ['../public'],
+```
