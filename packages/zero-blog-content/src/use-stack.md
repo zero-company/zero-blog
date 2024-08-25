@@ -8,6 +8,7 @@
 # state and store management
 
 - zustand
+- @preact/signals-react
 
 # rest client
 
