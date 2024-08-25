@@ -9,6 +9,7 @@
 
 - zustand
 - @preact/signals-react
+  - https://github.com/preactjs/signals/issues/466
 
 # rest client
 
