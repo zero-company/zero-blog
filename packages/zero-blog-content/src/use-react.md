@@ -14,4 +14,14 @@
 ```
 
 - A New Drag And Drop Library For EVERY Framework, autoanimate, swappy, react mosaic, dockview
-https://www.youtube.com/watch?v=gaNLnuwoFRI
+  https://www.youtube.com/watch?v=gaNLnuwoFRI
+
+# tsup, React is not defined
+
+`tsconfig.json`
+
+```
+"compilerOptions": {
+  "jsx": "react-jsx",
+}
+```
