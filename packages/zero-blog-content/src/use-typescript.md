@@ -171,3 +171,25 @@ git sparse
 pnpm dlx create-turbo@latest --example [example-name]
 pnpm dlx create-turbo@latest --example kitchen-sink
 
+## next and tsup together
+
+jsx was set to preserve (next.js implements its own optimized jsx transform)
+
+`./tsup.tsconfig.json`
+
+```
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+  }
+}
+```
+
+`tsup.config.ts`
+
+```
+export default defineConfig(options => ({
+  tsconfig: './tsup.tsconfig.json',
+  ...options,
+}))
+```
