@@ -193,3 +193,7 @@ export default defineConfig(options => ({
   ...options,
 }))
 ```
+
+# vscode extensions
+
+- yoavbls.pretty-ts-errors

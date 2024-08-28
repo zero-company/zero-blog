@@ -63,3 +63,7 @@ https://github.com/Microsoft/vscode/issues/7761
 ctrl + /
 
 You can disable the graph visualization of incoming/outgoing changes by toggling the scm.showHistoryGraph setting.
+
+# vscode extensions
+
+- yoavbls.pretty-ts-errors
