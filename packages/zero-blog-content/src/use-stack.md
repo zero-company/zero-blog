@@ -1,9 +1,13 @@
 # rich text editors
 
 - editorjs
+  - no markdown support
 - tinymce
+  - paid markdown support
 - froala
 - tiptap
+  - does not support markdown
+- mdx-editor
 
 - https://npmtrends.com/@editorjs/editorjs-vs-ckeditor5-vs-draft-js-vs-froala-editor-vs-prosemirror-model-vs-quill-vs-slate-vs-tinymce-vs-tiptap
 - https://www.reddit.com/r/reactjs/comments/14s4mmh/which_rich_text_editor_to_use/
