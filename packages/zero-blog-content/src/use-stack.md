@@ -5,6 +5,9 @@
 - froala
 - tiptap
 
+- https://npmtrends.com/@editorjs/editorjs-vs-ckeditor5-vs-draft-js-vs-froala-editor-vs-prosemirror-model-vs-quill-vs-slate-vs-tinymce-vs-tiptap
+- https://www.reddit.com/r/reactjs/comments/14s4mmh/which_rich_text_editor_to_use/
+
 # state and store management
 
 - zustand
