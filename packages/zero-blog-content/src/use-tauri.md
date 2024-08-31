@@ -78,6 +78,8 @@ https://uploadthing.com/
 
 # googe play assets
 
+- Your app icon must be a PNG or JPEG, up to 1 MB, 512 px by 512 px, and meet our
+- Your feature graphic must be a PNG or JPEG, up to 15 MB, and 1,024 px by 500 px
 - Create figma and storybook images
   - banner feature graphic, Your feature graphic must be a PNG or JPEG, up to 15 MB, and 1024 px by 500 px
   - phone screenshots, Upload 2-8 phone screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 320 px and 3,840 px, To be eligible for promotion, include at least 4 screenshots at a minimum of 1080 px on each side.
