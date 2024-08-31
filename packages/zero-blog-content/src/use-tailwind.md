@@ -28,4 +28,4 @@ https://stackoverflow.com/questions/62288432/problem-when-using-with-overflow-x-
 
 # generate color palette
 
-- https://uicolors.app/create
+- https://uicolors.app/create, paid
