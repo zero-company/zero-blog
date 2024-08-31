@@ -49,6 +49,9 @@
 - https://animetv4u.com/
 - https://animetosho.org/
 
+- https://everythingmoe.com/
+- https://theindex.moe/
+
 - https://nyaa.si/
 - https://1337x.to/
 
