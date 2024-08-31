@@ -85,6 +85,7 @@ https://uploadthing.com/
   - phone screenshots, Upload 2-8 phone screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 320 px and 3,840 px, To be eligible for promotion, include at least 4 screenshots at a minimum of 1080 px on each side.
   - 7-inch tablet screenshots, Upload up to eight 7-inch tablet screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 320 px and 3,840 px
   - 10-inch tablet screenshots, Upload up to eight 10-inch tablet screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 1,080 px and 7,680 px
+  - 1920x1080, 16:9, 120*16 120*9
 
 # vite vs next
 
