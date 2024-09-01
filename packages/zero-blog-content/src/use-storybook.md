@@ -20,3 +20,5 @@ staticDirs: ['../public'],
 ```
 
 # versioned components in component library for non blocking development
+
+- AppLayoutV2
