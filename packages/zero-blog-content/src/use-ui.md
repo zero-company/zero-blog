@@ -60,3 +60,5 @@ https://yingdesign.medium.com/kiosk-user-interface-ui-design-notes-for-ya-4b58a0
 
 searchParams
 https://github.com/sindresorhus/query-string
+
+v0 vercel
