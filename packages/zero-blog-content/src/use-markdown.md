@@ -4,6 +4,8 @@
 - https://www.tunica.tech/blogs/how-to-generate-a-table-of-contents-in-react-and-next-js
 - https://github.com/kaf-lamed-beyt/extract-md-headings
 - https://claritydev.net/blog/nextjs-blog-remark-interactive-table-of-contents
+- https://github.com/hashicorp/next-mdx-remote/issues/231
+- https://github.com/sveltinio/remark-headings
 
 # markdown metadata parse frontmatter
 
