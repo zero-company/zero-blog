@@ -87,7 +87,7 @@ https://uploadthing.com/
   - 10-inch tablet screenshots, Upload up to eight 10-inch tablet screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 1,080 px and 7,680 px
   - 1920x1080, 16:9, 120*16 120*9
   - 639x1136, 9:16, 71*9 71*16
-  - 360x640
+  - 360x640, 9:16, 40*9 40*16
 
 # vite vs next
 
