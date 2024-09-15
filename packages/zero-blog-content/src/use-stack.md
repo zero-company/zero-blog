@@ -33,3 +33,6 @@
 
 - apollo client
 - urql
+
+# error handling
+- http-status-codes 
