@@ -18,3 +18,10 @@
 
 - colored words
 - comic expression words (geronimo stilton)
+
+# mdx headings link
+
+- remark-gfm
+- rehype-autolink-headings
+- rehype-slug
+- https://github.com/withastro/astro/issues/6026
