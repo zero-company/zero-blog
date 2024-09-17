@@ -62,3 +62,7 @@ searchParams
 https://github.com/sindresorhus/query-string
 
 v0 vercel
+
+# marquee news ticker
+- https://github.com/devnomic/marquee
+- https://github.com/justin-chu/react-fast-marquee
