@@ -43,3 +43,7 @@
 - bcrypt
 - insecure, md5, sha-1
 - sha-2
+
+# misc
+
+  - https://github.com/sindresorhus/slugify
