@@ -5,6 +5,7 @@
 - 7 Cryptography Concepts EVERY Developer Should Know
   https://www.youtube.com/watch?v=NuyzuNBFWxQ
   - timingSafeEqual, node crypto
+  - jwt, hmac
 
 # one way hashing
 
