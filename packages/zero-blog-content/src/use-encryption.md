@@ -2,7 +2,8 @@
 # encryption
 
 - bcrypt
-- scr
+- scrypt
+- argon2
 - insecure, md5, sha-1
 - sha-2
 
