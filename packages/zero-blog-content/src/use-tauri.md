@@ -92,3 +92,12 @@ https://uploadthing.com/
 # vite vs next
 
 https://www.reddit.com/r/reactjs/comments/14uyoab/choosing_between_nextjs_csrssr_and_vite/
+
+# The user aborted a request in Next.js 14+
+
+  Delete .next, node_module, package-lock.json in your application
+  Run npm install
+  Run npm run build
+  Finally npm run dev
+
+- https://stackoverflow.com/questions/77654724/the-user-aborted-a-request-in-next-js-14
