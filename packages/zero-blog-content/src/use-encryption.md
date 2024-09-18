@@ -2,7 +2,9 @@
 # encryption
 
 - https://github.com/ajimae/ncrypt-js
-- https://www.youtube.com/watch?v=NuyzuNBFWxQ
+- 7 Cryptography Concepts EVERY Developer Should Know
+  https://www.youtube.com/watch?v=NuyzuNBFWxQ
+  - timingSafeEqual, node crypto
 
 # one way hashing
 
