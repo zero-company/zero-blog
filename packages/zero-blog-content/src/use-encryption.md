@@ -6,6 +6,7 @@
   https://www.youtube.com/watch?v=NuyzuNBFWxQ
   - timingSafeEqual, node crypto
   - jwt, hmac
+  - symmetric encrypt
 
 # one way hashing
 
