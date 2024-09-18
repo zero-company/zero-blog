@@ -37,3 +37,7 @@
 # error handling
 
 - http-status-codes 
+
+# encryption
+
+- bcrypt
