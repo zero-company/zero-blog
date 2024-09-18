@@ -7,7 +7,7 @@
 # one way hashing
 
 - bcrypt
-- scrypt
+- scrypt, proof of work algo in cryptocurrency mining
 - argon2
 - insecure, md5, sha-1
 - sha-2
