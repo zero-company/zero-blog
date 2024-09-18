@@ -7,7 +7,7 @@
   - timingSafeEqual, node crypto
   - jwt, hmac
   - symmetric encrypt
-  - public key cryptosystem
+  - public key cryptosystem, rsa
 
 # one way hashing
 
