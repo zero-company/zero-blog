@@ -17,3 +17,15 @@ fontFamily: {
 
 install `@radix-ui/react-context`
 https://github.com/shadcn-ui/ui/issues/4792
+
+# useToast directory bug
+```
+ "aliases": {
+    "components": "@/components/shadcn",
+    "utils": "@/components/shadcn/utils",
+    "ui": "@/components/shadcn/ui",
+    "lib": "@/components/shadcn/lib",
+    "hooks": "@/components/shadcn/hooks"
+  }
+```
+https://github.com/shadcn-ui/ui/issues/4828
