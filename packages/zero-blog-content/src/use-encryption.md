@@ -8,6 +8,7 @@
   - jwt, hmac
   - symmetric encrypt
   - public key cryptosystem, rsa
+  - signing, rsa-sha256
 
 # one way hashing
 
