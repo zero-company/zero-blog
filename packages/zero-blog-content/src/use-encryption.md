@@ -10,6 +10,7 @@
   - public key cryptosystem, rsa
   - signing, rsa-sha256
 - gnupg
+- https://github.com/tejado/obsidian-gpgCrypt
 
 # one way hashing
 
