@@ -9,10 +9,11 @@
   - symmetric encrypt
   - public key cryptosystem, rsa
   - signing, rsa-sha256
-- PGP
-- OpenPGP
+- PGP, Network Associates Inc (NAI)
+- OpenPGP, Network Associates Inc (NAI), IETF
 - gnupg
 - https://github.com/tejado/obsidian-gpgCrypt
+- https://dev.to/flpslv/encrypt-your-notes-with-gnupg-3080
 
 # one way hashing
 
