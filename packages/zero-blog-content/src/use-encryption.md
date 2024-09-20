@@ -9,6 +9,7 @@
   - symmetric encrypt
   - public key cryptosystem, rsa
   - signing, rsa-sha256
+- gnupg
 
 # one way hashing
 
