@@ -9,6 +9,8 @@
   - symmetric encrypt
   - public key cryptosystem, rsa
   - signing, rsa-sha256
+- PGP
+- OpenPGP
 - gnupg
 - https://github.com/tejado/obsidian-gpgCrypt
 
