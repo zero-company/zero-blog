@@ -14,6 +14,9 @@
 - gnupg
 - https://github.com/tejado/obsidian-gpgCrypt
 - https://dev.to/flpslv/encrypt-your-notes-with-gnupg-3080
+- https://github.com/openpgpjs/openpgpjs
+- crypto-js vs gpg vs jsencrypt vs openpgp
+- SHA-256
 
 # one way hashing
 
