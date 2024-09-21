@@ -42,5 +42,10 @@ pnpm dlx create-turbo@latest --example [example-name]
 pnpm dlx degit https://github.com/payloadcms/payload-3.0-demo
 
 # pnpx pnpm dlx fails to open package.json
+
 reinstall node
 Failed to create bin at
+
+# update pnpm
+
+corepack prepare pnpm@9.11.0 --activate
