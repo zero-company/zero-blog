@@ -44,6 +44,13 @@
 - insecure, md5, sha-1
 - sha-2
 
+# git
+
+- https://github.com/steveukx/git-js, simple-git, recommended
+- https://github.com/creationix/js-git, dead
+- https://github.com/nodegit/nodegit
+- https://github.com/isomorphic-git/isomorphic-git
+
 # misc
 
   - https://github.com/sindresorhus/slugify
