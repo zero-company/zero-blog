@@ -51,6 +51,7 @@
 
 - https://everythingmoe.com/
 - https://theindex.moe/
+- https://fmhy.pages.dev/videopiracyguide
 
 - https://nyaa.si/
 - https://1337x.to/
