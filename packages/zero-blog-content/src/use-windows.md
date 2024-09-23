@@ -59,3 +59,6 @@ unlock with file locksmith, end task that's locking files
 
 # windows 11 window outside of screen bug
 shift + right click taskbar app + move/maximize
+
+# poor audio channels
+system > sound > enable mono audio
