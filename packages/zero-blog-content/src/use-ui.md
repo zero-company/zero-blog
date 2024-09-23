@@ -66,3 +66,6 @@ v0 vercel
 # marquee news ticker
 - https://github.com/devnomic/marquee
 - https://github.com/justin-chu/react-fast-marquee
+
+Tailwind CSS Conic gradient button
+https://www.creative-tim.com/twcomponents/component/conic-gradient-button
