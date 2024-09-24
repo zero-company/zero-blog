@@ -101,3 +101,6 @@ https://www.reddit.com/r/reactjs/comments/14uyoab/choosing_between_nextjs_csrssr
   Finally npm run dev
 
 - https://stackoverflow.com/questions/77654724/the-user-aborted-a-request-in-next-js-14
+
+# publish app
+Catappult
