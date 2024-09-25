@@ -95,12 +95,27 @@ https://www.reddit.com/r/reactjs/comments/14uyoab/choosing_between_nextjs_csrssr
 
 # The user aborted a request in Next.js 14+
 
-  Delete .next, node_module, package-lock.json in your application
-  Run npm install
-  Run npm run build
-  Finally npm run dev
+Delete .next, node_module, package-lock.json in your application
+Run npm install
+Run npm run build
+Finally npm run dev
 
 - https://stackoverflow.com/questions/77654724/the-user-aborted-a-request-in-next-js-14
 
 # publish app
+
 Catappult
+
+# Fix anchor links
+
+`src-tauri/capabilities/default.json`
+
+```
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "enables the default permissions",
+  "windows": ["main"],
+  "permissions": ["core:default", "shell:default", "shell:allow-open"]
+}
+```
