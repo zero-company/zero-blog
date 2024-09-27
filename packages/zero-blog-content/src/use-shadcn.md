@@ -29,3 +29,7 @@ https://github.com/shadcn-ui/ui/issues/4792
   }
 ```
 https://github.com/shadcn-ui/ui/issues/4828
+
+
+# swap to newyork
+https://github.com/shadcn-ui/ui/issues/2570
