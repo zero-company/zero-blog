@@ -33,3 +33,6 @@ https://github.com/shadcn-ui/ui/issues/4828
 
 # swap to newyork
 https://github.com/shadcn-ui/ui/issues/2570
+
+# button groups
+https://github.com/shadcn-ui/ui/discussions/4283
