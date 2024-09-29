@@ -31,3 +31,7 @@ margin: auto, m-auto
 # generate color palette
 
 - https://uicolors.app/create, paid
+
+# divide border bug
+divide-x -ml-px
+divide-y -mt-px
