@@ -25,6 +25,8 @@ https://github.com/tailwindlabs/tailwindcss-typography
 # overflow clipped
 justify-center, items-center breaks overflow
 https://stackoverflow.com/questions/62288432/problem-when-using-with-overflow-x-scroll-and-justify-content-center
+https://stackoverflow.com/questions/34184535/change-justify-content-value-when-flex-items-overflow-container
+margin: auto, m-auto
 
 # generate color palette
 
