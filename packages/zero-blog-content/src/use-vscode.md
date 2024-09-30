@@ -67,3 +67,7 @@ You can disable the graph visualization of incoming/outgoing changes by toggling
 # vscode extensions
 
 - yoavbls.pretty-ts-errors
+
+
+disable line numbers
+disable glyph margin
