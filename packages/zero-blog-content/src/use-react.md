@@ -30,3 +30,4 @@
 
 https://www.reddit.com/r/nextjs/comments/1do2vtw/disabling_button_in_client_component_whilst_page/
 https://onecompiler.com/posts/3wa296uta/how-to-disable-a-button-while-loading-in-react
+https://www.reddit.com/r/nextjs/comments/1do2vtw/disabling_button_in_client_component_whilst_page/
