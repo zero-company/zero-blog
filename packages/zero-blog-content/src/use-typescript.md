@@ -197,3 +197,5 @@ export default defineConfig(options => ({
 # vscode extensions
 
 - yoavbls.pretty-ts-errors
+
+# Element implicitly has an type because expression of type can't be used to index type, object string index
