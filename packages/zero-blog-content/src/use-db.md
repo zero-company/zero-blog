@@ -1,4 +1,4 @@
-keystonejs
+keystonejs, openapi swagger standardized rest api
 payloadcms
 datocms
 
