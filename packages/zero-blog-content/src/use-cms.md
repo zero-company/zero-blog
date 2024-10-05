@@ -14,7 +14,12 @@ importance of having a list of all active and inactive/disable access policies
 default policy for all admins
 policy name: AdminsCanReadOrDelete, list of admins zero-ids
 
-
 # graphql client like useswr
+
 apollo client
 urql
+
+# keystonejs rest api
+
+openapi swagger standardized rest api
+https://github.com/keystonejs/keystone/discussions/7309
