@@ -18,6 +18,8 @@ policy name: AdminsCanReadOrDelete, list of admins zero-ids
 
 apollo client
 urql
+@graphql-codegen/cli
+https://the-guild.dev/graphql/codegen/docs/getting-started
 
 # keystonejs rest api
 
