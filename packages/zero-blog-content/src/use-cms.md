@@ -25,3 +25,7 @@ https://the-guild.dev/graphql/codegen/docs/getting-started
 
 openapi swagger standardized rest api
 https://github.com/keystonejs/keystone/discussions/7309
+
+# prisma cloudflare worker
+
+https://github.com/prisma/prisma/discussions/23762
