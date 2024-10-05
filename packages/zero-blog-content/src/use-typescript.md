@@ -199,3 +199,12 @@ export default defineConfig(options => ({
 - yoavbls.pretty-ts-errors
 
 # Element implicitly has an type because expression of type can't be used to index type, object string index
+
+# react-hook-form, A component is changing an uncontrolled input to be controlled
+https://github.com/colinhacks/zod/issues/3114
+don't use `required_error`, use min 1
+```
+const schema: ZodType<FormData> = z.object({
+  firstName: z.string().min(1, { message: "First Name is required" })
+});
+```
