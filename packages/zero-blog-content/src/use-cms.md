@@ -14,6 +14,10 @@ importance of having a list of all active and inactive/disable access policies
 default policy for all admins
 policy name: AdminsCanReadOrDelete, list of admins zero-ids
 
+# payload
+Adding an ID into the data object on a "create" operation does not respect the ID inputted
+https://github.com/payloadcms/payload/issues/6884
+
 # graphql client like useswr
 
 apollo client
