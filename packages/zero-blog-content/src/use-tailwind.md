@@ -35,3 +35,6 @@ margin: auto, m-auto
 # divide border bug
 divide-x -ml-px
 divide-y -mt-px
+
+# dark mode
+https://github.com/darkreader/darkreader
