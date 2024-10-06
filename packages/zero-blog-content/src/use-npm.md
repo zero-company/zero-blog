@@ -48,4 +48,4 @@ Failed to create bin at
 
 # update pnpm
 
-corepack prepare pnpm@9.11.0 --activate
+corepack prepare pnpm@9.12.0 --activate
