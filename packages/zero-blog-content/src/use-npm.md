@@ -51,3 +51,5 @@ Failed to create bin at
 corepack prepare pnpm@9.12.1 --activate
 
 # npm.ps1 cannot be loaded because running scripts is disabled on this system
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+https://stackoverflow.com/questions/41117421/ps1-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system
