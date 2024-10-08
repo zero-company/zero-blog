@@ -62,3 +62,7 @@ shift + right click taskbar app + move/maximize
 
 # poor audio channels
 system > sound > enable mono audio
+
+# this device is currently in use
+sysinternal suite in microsoft store, procdump
+https://www.reddit.com/r/Windows11/comments/12t8pwo/i_cant_eject_any_storage_even_if_nothing_obvious/
