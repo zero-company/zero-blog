@@ -49,3 +49,5 @@ Failed to create bin at
 # update pnpm
 
 corepack prepare pnpm@9.12.1 --activate
+
+# npm.ps1 cannot be loaded because running scripts is disabled on this system
