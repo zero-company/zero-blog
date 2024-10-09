@@ -24,3 +24,6 @@ spy x family stiched anime lanyard for phone
 
 can you run it
 https://www.systemrequirementslab.com/cyri
+
+# parsec bug native display portrait
+https://www.reddit.com/r/ParsecGaming/comments/w8cw8l/any_idea_why_parsec_displays_like_this_when_i/
