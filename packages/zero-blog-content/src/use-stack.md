@@ -54,3 +54,4 @@
 # misc
 
   - https://github.com/sindresorhus/slugify
+  - https://github.com/dotenvx/dotenvx
