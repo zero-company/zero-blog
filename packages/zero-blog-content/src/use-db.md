@@ -58,4 +58,10 @@ https://github.com/watscho/express-mongodb-rest-api-boilerplate
 
 dry run graphql api database create for seeding if there are any id or unique field conflicts
 
-
+# Print PostgreSQL version
+SQL Editor
+```
+select
+  version();
+```
+https://supabase.com/docs/guides/database/postgres/which-version-of-postgres
