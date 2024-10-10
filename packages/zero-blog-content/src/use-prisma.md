@@ -6,6 +6,8 @@ root non workspace .npmrc
 ```
 public-hoist-pattern[]=*prisma*
 ```
+https://github.com/keystonejs/keystone/issues/9208
+https://github.com/keystonejs/keystone/issues/9349
 
 # rbac
 https://thomasvds.com/building-an-advanced-rbac-system-in-nest-js/
