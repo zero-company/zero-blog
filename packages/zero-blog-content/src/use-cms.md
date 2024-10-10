@@ -44,3 +44,8 @@ public-hoist-pattern[]=*prisma*
 ```
 https://github.com/keystonejs/keystone/issues/9208
 https://github.com/keystonejs/keystone/issues/9349
+https://github.com/prisma/prisma/issues/21194
+
+```
+pnpm why @prisma/client
+```
