@@ -51,6 +51,11 @@
 - https://github.com/nodegit/nodegit
 - https://github.com/isomorphic-git/isomorphic-git
 
+# cms
+
+- keystonejs, dead, deploy issues
+- payload, bug can't create customId for seeding
+
 # misc
 
   - https://github.com/sindresorhus/slugify
