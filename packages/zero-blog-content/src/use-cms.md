@@ -15,6 +15,7 @@ default policy for all admins
 policy name: AdminsCanReadOrDelete, list of admins zero-ids
 
 # payload
+
 Adding an ID into the data object on a "create" operation does not respect the ID inputted
 https://github.com/payloadcms/payload/issues/6884
 
@@ -42,10 +43,20 @@ root non workspace .npmrc
 ```
 public-hoist-pattern[]=*prisma*
 ```
+
 https://github.com/keystonejs/keystone/issues/9208
 https://github.com/keystonejs/keystone/issues/9349
 https://github.com/prisma/prisma/issues/21194
 
 ```
 pnpm why @prisma/client
+```
+
+remove carat from prisma dep version, use specific version
+
+```
+"prisma": "5.19.0",
+"@prisma/client": "5.19.0",
+"prisma": "^5.19.0",
+"@prisma/client": "^5.19.0",
 ```
