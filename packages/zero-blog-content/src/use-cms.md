@@ -33,3 +33,14 @@ https://github.com/keystonejs/keystone/discussions/7309
 # prisma cloudflare worker
 
 https://github.com/prisma/prisma/discussions/23762
+
+# @prisma/client did not initialize yet
+
+https://github.com/prisma/prisma/issues/21194
+root non workspace .npmrc
+
+```
+public-hoist-pattern[]=*prisma*
+```
+https://github.com/keystonejs/keystone/issues/9208
+https://github.com/keystonejs/keystone/issues/9349
