@@ -66,3 +66,4 @@ remove carat from prisma dep version, use specific version
 https://stackoverflow.com/questions/78138516/how-to-redirect-to-apollo-graphql-sandbox-from-nestjs-app-in-local
 https://github.com/keystonejs/keystone/pull/8258
 https://keystonejs.com/docs/config/config#server
+https://github.com/keystonejs/keystone/issues/6793
