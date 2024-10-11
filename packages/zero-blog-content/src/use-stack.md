@@ -55,6 +55,10 @@
 
 - keystonejs, dead, deploy issues
 - payload, bug can't create customId for seeding
+- strapi
+- sanity
+
+- https://www.reddit.com/r/nextjs/comments/svrznd/feedback_keystonejs_or_strapi_or_any_other/
 
 # misc
 
