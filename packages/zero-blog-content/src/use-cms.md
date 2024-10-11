@@ -67,3 +67,9 @@ https://stackoverflow.com/questions/78138516/how-to-redirect-to-apollo-graphql-s
 https://github.com/keystonejs/keystone/pull/8258
 https://keystonejs.com/docs/config/config#server
 https://github.com/keystonejs/keystone/issues/6793
+
+# nodemailer
+
+require 2fa
+https://myaccount.google.com/apppasswords
+https://myaccount.google.com/u/1/apppasswords
