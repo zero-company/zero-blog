@@ -61,6 +61,8 @@ remove carat from prisma dep version, use specific version
 "@prisma/client": "^5.19.0",
 ```
 
-# This operation has been blocked as a potential Cross-Site Request Forgery (CSRF), keystone playground on render.com
+# This operation has been blocked as a potential Cross-Site Request Forgery (CSRF), keystone playground on render.com, cors
 
 https://stackoverflow.com/questions/78138516/how-to-redirect-to-apollo-graphql-sandbox-from-nestjs-app-in-local
+https://github.com/keystonejs/keystone/pull/8258
+https://keystonejs.com/docs/config/config#server
