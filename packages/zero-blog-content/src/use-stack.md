@@ -59,7 +59,7 @@ SELF HOSTED:
 - strapi
 
 LOUD HOSTED:
-- sanity
+- Sanity
 - Storyblok
 - DatoCMS
 - Prismic
