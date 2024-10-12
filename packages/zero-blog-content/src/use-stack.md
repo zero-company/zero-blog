@@ -70,6 +70,13 @@ LOUD HOSTED:
 
 - https://www.reddit.com/r/nextjs/comments/svrznd/feedback_keystonejs_or_strapi_or_any_other/
 
+# auth
+
+- next-auth, barely supports credentials
+  - https://github.com/nextauthjs/next-auth/issues/3729
+- lucia
+- passport
+
 # misc
 
   - https://github.com/sindresorhus/slugify
