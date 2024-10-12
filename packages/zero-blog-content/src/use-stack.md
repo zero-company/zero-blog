@@ -53,6 +53,11 @@
 
 # cms
 
+ORM:
+- prisma
+- kysely
+- drizzle orm
+
 SELF HOSTED:
 - keystonejs, dead, deploy issues
 - payload, bug can't create customId for seeding
