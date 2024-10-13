@@ -92,3 +92,5 @@ LOUD HOSTED:
 
   - https://github.com/sindresorhus/slugify
   - https://github.com/dotenvx/dotenvx
+  - https://github.com/ramda/ramda
+  - https://github.com/lodash/lodash
