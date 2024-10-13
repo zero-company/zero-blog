@@ -77,7 +77,7 @@ LOUD HOSTED:
 
 # id
 - uuid
-- nanoid
+- nanoid, can set custom length
 - ulid
 - snowflake id
 
