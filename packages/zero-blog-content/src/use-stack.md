@@ -75,6 +75,12 @@ LOUD HOSTED:
 
 - https://www.reddit.com/r/nextjs/comments/svrznd/feedback_keystonejs_or_strapi_or_any_other/
 
+# id
+- uuid
+- nanoid
+- ulid
+- snowflake id
+
 # auth
 
 - next-auth, barely supports credentials
