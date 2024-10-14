@@ -208,3 +208,7 @@ const schema: ZodType<FormData> = z.object({
   firstName: z.string().min(1, { message: "First Name is required" })
 });
 ```
+
+
+# boolean variables naming convention
+  https://dev.to/michi/tips-on-naming-boolean-variables-cleaner-code-35ig
