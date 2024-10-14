@@ -36,3 +36,6 @@ https://github.com/shadcn-ui/ui/issues/2570
 
 # button groups
 https://github.com/shadcn-ui/ui/discussions/4283
+
+# The `border-border` class does not exist. If `border-border` is a custom class, make sure it is defined within a `@layer` directive.
+https://github.com/shadcn-ui/ui/issues/214
