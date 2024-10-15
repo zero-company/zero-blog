@@ -1,3 +1,5 @@
+# use-tauri
+
 # generate icons
 
 https://v2.tauri.app/reference/cli/#icon
@@ -119,3 +121,6 @@ Catappult
   "permissions": ["core:default", "shell:default", "shell:allow-open"]
 }
 ```
+
+# showcase
+https://github.com/agmmnn/tauri-ui

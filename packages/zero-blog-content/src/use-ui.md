@@ -74,3 +74,4 @@ https://www.creative-tim.com/twcomponents/component/conic-gradient-button
   https://www.w3schools.com/js/js_popup.asp
   
 https://uiverse.io/
+https://github.com/agmmnn/tauri-ui
