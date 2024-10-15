@@ -95,6 +95,10 @@ LOUD HOSTED:
 - lucia
 - passport
 
+# tunnel static ip
+
+- https://free-for.dev/#/?id=tunneling-webrtc-web-socket-servers-and-other-routers
+
 # misc
 
   - https://github.com/sindresorhus/slugify
