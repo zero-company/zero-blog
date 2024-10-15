@@ -75,3 +75,5 @@ https://www.creative-tim.com/twcomponents/component/conic-gradient-button
   
 https://uiverse.io/
 https://github.com/agmmnn/tauri-ui
+https://gluestack.io/
+https://www.newcult.co/
