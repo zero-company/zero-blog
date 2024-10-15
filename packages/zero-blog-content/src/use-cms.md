@@ -73,3 +73,6 @@ https://github.com/keystonejs/keystone/issues/6793
 require 2fa
 https://myaccount.google.com/apppasswords
 https://myaccount.google.com/u/1/apppasswords
+
+# ERR_REQUIRE_ESM, keystonejs
+https://github.com/ai/nanoid/issues/365
