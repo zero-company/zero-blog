@@ -212,3 +212,9 @@ const schema: ZodType<FormData> = z.object({
 
 # boolean variables naming convention
   https://dev.to/michi/tips-on-naming-boolean-variables-cleaner-code-35ig
+
+
+# tsup
+
+https://johnnyreilly.com/dual-publishing-esm-cjs-modules-with-tsup-and-are-the-types-wrong
+https://arethetypeswrong.github.io
