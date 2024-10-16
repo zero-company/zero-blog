@@ -107,3 +107,5 @@ LOUD HOSTED:
   - https://github.com/ramda/ramda
   - https://github.com/lodash/lodash
   - https://codedamn.com/news/product/dont-use-prisma
+  - Prisma Just Got a Lot Faster 
+    https://www.youtube.com/watch?v=QwzulZEU0YA
