@@ -87,6 +87,7 @@ LOUD HOSTED:
 - nanoid, can set custom length
 - ulid
 - snowflake id
+- https://osamadev.medium.com/understanding-unique-identifiers-uid-uuid-guid-cuid-and-nano-id-3ef2d104ecdf
 
 # auth
 
