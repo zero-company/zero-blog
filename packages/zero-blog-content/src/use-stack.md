@@ -106,3 +106,4 @@ LOUD HOSTED:
   - https://github.com/dotenvx/dotenvx
   - https://github.com/ramda/ramda
   - https://github.com/lodash/lodash
+  - https://codedamn.com/news/product/dont-use-prisma
