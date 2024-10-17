@@ -81,3 +81,13 @@ https://github.com/keystonejs/keystone/discussions/6647
 https://github.com/keystonejs/keystone/issues/8537
 https://antfu.me/posts/publish-esm-and-cjs
 https://dmitripavlutin.com/ecmascript-modules-dynamic-import/
+
+# prisma prettier vscode
+
+settings.json
+
+```
+"[prisma]": {
+  "editor.defaultFormatter": "Prisma.prisma"
+},
+```

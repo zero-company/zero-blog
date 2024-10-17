@@ -201,18 +201,19 @@ export default defineConfig(options => ({
 # Element implicitly has an type because expression of type can't be used to index type, object string index
 
 # react-hook-form, A component is changing an uncontrolled input to be controlled
+
 https://github.com/colinhacks/zod/issues/3114
 don't use `required_error`, use min 1
+
 ```
 const schema: ZodType<FormData> = z.object({
   firstName: z.string().min(1, { message: "First Name is required" })
 });
 ```
 
-
 # boolean variables naming convention
-  https://dev.to/michi/tips-on-naming-boolean-variables-cleaner-code-35ig
 
+https://dev.to/michi/tips-on-naming-boolean-variables-cleaner-code-35ig
 
 # tsup
 
@@ -222,3 +223,22 @@ https://github.com/arethetypeswrong/arethetypeswrong.github.io/issues/169
 https://www.npmjs.com/package/@arethetypeswrong/cli
 
 # lru-cache Private identifiers are only available when targeting ECMAScript 2015 and higher.
+
+tsconfig.json
+
+```
+{
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "target": "ES6",
+    "outDir": "dist",
+    "rootDir": "src",
+    "esModuleInterop": true,
+    "lib": ["esnext"],
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
+```
