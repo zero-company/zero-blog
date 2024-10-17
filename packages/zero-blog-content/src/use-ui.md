@@ -77,3 +77,4 @@ https://uiverse.io/
 https://github.com/agmmnn/tauri-ui
 https://gluestack.io/
 https://www.newcult.co/
+https://tailgrids.com
