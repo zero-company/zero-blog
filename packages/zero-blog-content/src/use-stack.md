@@ -82,6 +82,11 @@ LOUD HOSTED:
 
 - https://www.reddit.com/r/nextjs/comments/svrznd/feedback_keystonejs_or_strapi_or_any_other/
 
+# self hosted platform
+- pocketbase
+- appwrite.io
+- coolify
+
 # id
 - uuid
 - nanoid, can set custom length
@@ -110,3 +115,4 @@ LOUD HOSTED:
   - Prisma Just Got a Lot Faster 
     https://www.youtube.com/watch?v=QwzulZEU0YA
   - https://github.com/date-fns/date-fns
+  - https://github.com/enaqx/awesome-react
