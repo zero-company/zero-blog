@@ -78,3 +78,4 @@ https://github.com/agmmnn/tauri-ui
 https://gluestack.io/
 https://www.newcult.co/
 https://tailgrids.com
+https://horizon-ui.com/
