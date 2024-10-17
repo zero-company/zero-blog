@@ -91,3 +91,7 @@ settings.json
   "editor.defaultFormatter": "Prisma.prisma"
 },
 ```
+
+# resources
+https://jamstack.org/headless-cms/
+https://bejamas.io
