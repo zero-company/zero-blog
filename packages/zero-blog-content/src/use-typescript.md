@@ -220,3 +220,5 @@ https://johnnyreilly.com/dual-publishing-esm-cjs-modules-with-tsup-and-are-the-t
 https://arethetypeswrong.github.io
 https://github.com/arethetypeswrong/arethetypeswrong.github.io/issues/169
 https://www.npmjs.com/package/@arethetypeswrong/cli
+
+# lru-cache Private identifiers are only available when targeting ECMAScript 2015 and higher.
