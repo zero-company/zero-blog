@@ -107,6 +107,7 @@ LOUD HOSTED:
 
 - https://supertokens.com/blog/self-hosted-authentication
 - https://dev.to/supertokens/self-hosted-authentication-2bl2
+- https://github.com/lucia-auth/lucia/discussions/1707#discussioncomment-10890390
 
 # tunnel static ip
 
