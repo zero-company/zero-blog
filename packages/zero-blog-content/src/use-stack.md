@@ -103,7 +103,7 @@ LOUD HOSTED:
 - ory
 - keycloak
 - supertokens
-- fusionauth
+- fusionauth, not open source
 
 - https://supertokens.com/blog/self-hosted-authentication
 - https://dev.to/supertokens/self-hosted-authentication-2bl2
