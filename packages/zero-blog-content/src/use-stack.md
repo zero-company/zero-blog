@@ -100,10 +100,13 @@ LOUD HOSTED:
   - https://github.com/nextauthjs/next-auth/issues/3729
 - lucia, dead
 - passport
-- https://supertokens.com/blog/self-hosted-authentication
 - ory
 - keycloak
 - supertokens
+- fusionauth
+
+- https://supertokens.com/blog/self-hosted-authentication
+- https://dev.to/supertokens/self-hosted-authentication-2bl2
 
 # tunnel static ip
 
