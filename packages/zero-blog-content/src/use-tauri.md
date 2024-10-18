@@ -124,3 +124,4 @@ Catappult
 
 # showcase
 https://github.com/agmmnn/tauri-ui
+https://github.com/yaakapp/app

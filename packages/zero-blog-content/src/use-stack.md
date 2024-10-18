@@ -128,3 +128,4 @@ LOUD HOSTED:
   - https://github.com/Blazity/next-enterprise
   - nodemailer
     - google manage your account, 2 step verification, app passwords
+  - https://github.com/yaakapp/app
