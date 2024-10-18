@@ -125,3 +125,4 @@ LOUD HOSTED:
     https://www.youtube.com/watch?v=QwzulZEU0YA
   - https://github.com/date-fns/date-fns
   - https://github.com/enaqx/awesome-react
+  - https://github.com/Blazity/next-enterprise
