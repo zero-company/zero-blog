@@ -100,8 +100,8 @@ LOUD HOSTED:
   - https://github.com/nextauthjs/next-auth/issues/3729
 - lucia, dead
 - passport
-- ory
-- keycloak, ?
+- ory, go fastest?
+- keycloak, java startup time
 - supertokens
 - fusionauth, not open source
 
