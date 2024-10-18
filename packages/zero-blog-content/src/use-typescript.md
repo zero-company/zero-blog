@@ -242,3 +242,6 @@ tsconfig.json
   "exclude": ["node_modules"]
 }
 ```
+
+# ts-node Unknown file extension ".ts"
+https://github.com/TypeStrong/ts-node/issues/2100
