@@ -104,6 +104,7 @@ LOUD HOSTED:
 - keycloak, java startup time
 - supertokens
 - fusionauth, not open source
+- better-auth
 
 - https://supertokens.com/blog/self-hosted-authentication
 - https://dev.to/supertokens/self-hosted-authentication-2bl2
