@@ -245,3 +245,8 @@ tsconfig.json
 
 # ts-node Unknown file extension ".ts"
 https://github.com/TypeStrong/ts-node/issues/2100
+
+# tsx __dirname is not defined in ES module scope
+
+https://iamwebwiz.medium.com/how-to-fix-dirname-is-not-defined-in-es-module-scope-34d94a86694d
+https://flaviocopes.com/fix-dirname-not-defined-es-module-scope/
