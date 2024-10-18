@@ -98,7 +98,7 @@ LOUD HOSTED:
 
 - next-auth, barely supports credentials
   - https://github.com/nextauthjs/next-auth/issues/3729
-- lucia
+- lucia, dead
 - passport
 
 # tunnel static ip
