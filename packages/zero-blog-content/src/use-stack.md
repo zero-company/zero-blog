@@ -129,3 +129,4 @@ LOUD HOSTED:
   - nodemailer
     - google manage your account, 2 step verification, app passwords
   - https://github.com/yaakapp/app
+  - https://github.com/kriasoft/graphql-starter-kit
