@@ -133,3 +133,4 @@ LOUD HOSTED:
   - apollo sandbox doesn't work offline, vendor lock in graphos
     - https://inigo.io/blog/control_your_graphql_destiny
   - https://github.com/738/awesome-url-shortener
+  - https://github.com/tehtbl/awesome-note-taking
