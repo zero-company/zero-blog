@@ -92,6 +92,9 @@ settings.json
 },
 ```
 
+# prisma healthcheck test migrate
+  https://github.com/prisma/prisma/issues/10977
+
 # resources
 https://jamstack.org/headless-cms/
 https://bejamas.io
