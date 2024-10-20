@@ -79,3 +79,7 @@ https://gluestack.io/
 https://www.newcult.co/
 https://tailgrids.com
 https://horizon-ui.com/
+
+
+# tailwind preflight, reset css, normalize.css
+https://github.com/sindresorhus/modern-normalize

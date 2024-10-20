@@ -130,3 +130,5 @@ LOUD HOSTED:
     - google manage your account, 2 step verification, app passwords
   - https://github.com/yaakapp/app
   - https://github.com/kriasoft/graphql-starter-kit
+  - apollo sandbox doesn't work offline, vendor lock in graphos
+    - https://inigo.io/blog/control_your_graphql_destiny
