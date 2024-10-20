@@ -132,3 +132,4 @@ LOUD HOSTED:
   - https://github.com/kriasoft/graphql-starter-kit
   - apollo sandbox doesn't work offline, vendor lock in graphos
     - https://inigo.io/blog/control_your_graphql_destiny
+  - https://github.com/738/awesome-url-shortener
