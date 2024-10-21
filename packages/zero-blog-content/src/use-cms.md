@@ -2,12 +2,16 @@ keystonejs
 payload cms
 ghost cms
 strapi cms
+
+supabase
 appwrite
+pockerbase
 
 dato cms
 
 https://www.reddit.com/r/nextjs/comments/10acm0j/best_self_hosting_cms/
 https://github.com/payloadcms/payload/discussions/287
+https://www.reddit.com/r/node/comments/v4uw47/what_to_choose_for_backend/
 
 aws iam policy in expressjs
 user group zeroid permission system, zero index data groups
