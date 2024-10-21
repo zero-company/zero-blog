@@ -2,6 +2,7 @@ keystonejs
 payload cms
 ghost cms
 strapi cms
+appwrite
 
 dato cms
 
