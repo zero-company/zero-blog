@@ -119,6 +119,7 @@ LOUD HOSTED:
 - casbin, node-casbin
 - opa
 - casl
+- ? cerbos
 
 https://www.reddit.com/r/node/comments/1c9s1au/any_rbacacl_libraries/
 https://www.youtube.com/watch?v=qprypVZ6Pxo
