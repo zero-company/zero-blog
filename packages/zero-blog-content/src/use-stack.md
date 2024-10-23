@@ -114,6 +114,14 @@ LOUD HOSTED:
 
 - https://free-for.dev/#/?id=tunneling-webrtc-web-socket-servers-and-other-routers
 
+# rbac, fine grained
+
+- casbin, node-casbin
+- opa
+- casl
+
+https://www.reddit.com/r/node/comments/1c9s1au/any_rbacacl_libraries/
+
 # misc
 
   - https://github.com/sindresorhus/slugify
