@@ -11,6 +11,7 @@ delete node_modules
 .next
 dist-next
 gen
+dist
 
 https://github.com/npm/npm/issues/5706
 
