@@ -21,6 +21,8 @@ vscode settings
 }
 ```
 
+editor: disable folding imports by default
+
 vscode fold comment blocks, regions
 //#region <REGION NAME>
 //#endregion
