@@ -145,3 +145,4 @@ https://www.youtube.com/watch?v=qprypVZ6Pxo
     - https://inigo.io/blog/control_your_graphql_destiny
   - https://github.com/738/awesome-url-shortener
   - https://github.com/tehtbl/awesome-note-taking, gitjournal
+  - openfreemap
