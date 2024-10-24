@@ -6,6 +6,11 @@ npm cache clean --force
 cargo clean
 pnpm store prune
 C:\Users\jigzp\AppData\Local\pnpm\store\v3
+delete target
+delete node_modules
+.next
+dist-next
+gen
 
 https://github.com/npm/npm/issues/5706
 
