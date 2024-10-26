@@ -71,3 +71,5 @@ https://supabase.com/docs/guides/database/postgres/which-version-of-postgres
 - https://www.reddit.com/r/Database/comments/wrrw2e/how_would_you_guys_approach_a_history_table_its/
 - How to use immudb, the lightweight, high-speed immutable database to store data PCI compliant
   https://www.youtube.com/watch?v=EUSoRUOy6cM
+- PGaudit
+- https://github.com/prisma/prisma/issues/1902
