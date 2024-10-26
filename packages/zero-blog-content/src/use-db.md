@@ -69,6 +69,8 @@ https://supabase.com/docs/guides/database/postgres/which-version-of-postgres
 # git like immutable database history logging, audit logging
 
 - audit logging log stream
+  - Winston - Logging in JavaScript & Node.js applications
+    https://www.youtube.com/watch?v=YjEqmINAQpI&t=915s
   - Add audit logging and log streams to a Node Express app
     https://www.youtube.com/watch?v=7FHrfo3iHZo&t=468s
 - log api level requests instead of db changes
