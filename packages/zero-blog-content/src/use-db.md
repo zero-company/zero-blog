@@ -66,7 +66,7 @@ select
 ```
 https://supabase.com/docs/guides/database/postgres/which-version-of-postgres
 
-# git like immutable database history logging
+# git like immutable database history logging, audit
 
 - https://www.reddit.com/r/Database/comments/wrrw2e/how_would_you_guys_approach_a_history_table_its/
 - How to use immudb, the lightweight, high-speed immutable database to store data PCI compliant
