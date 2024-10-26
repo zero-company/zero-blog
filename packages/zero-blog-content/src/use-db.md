@@ -65,3 +65,7 @@ select
   version();
 ```
 https://supabase.com/docs/guides/database/postgres/which-version-of-postgres
+
+# git like immutable database history logging
+
+- https://www.reddit.com/r/Database/comments/wrrw2e/how_would_you_guys_approach_a_history_table_its/
