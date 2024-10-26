@@ -146,3 +146,4 @@ https://www.youtube.com/watch?v=qprypVZ6Pxo
   - https://github.com/738/awesome-url-shortener
   - https://github.com/tehtbl/awesome-note-taking, gitjournal
   - openfreemap, maplibre
+  - https://github.com/zenstackhq/zenstack
