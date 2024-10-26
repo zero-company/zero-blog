@@ -73,3 +73,5 @@ https://supabase.com/docs/guides/database/postgres/which-version-of-postgres
   https://www.youtube.com/watch?v=EUSoRUOy6cM
 - PGaudit
 - https://github.com/prisma/prisma/issues/1902
+- https://medium.com/@arjunlall/prisma-audit-trail-guide-for-postgres-5b09aaa9f75a
+- https://medium.com/@dev0jsh/implement-audit-trail-on-postgresql-with-prisma-orm-1c32afb44ebd
