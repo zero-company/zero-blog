@@ -66,8 +66,9 @@ select
 ```
 https://supabase.com/docs/guides/database/postgres/which-version-of-postgres
 
-# git like immutable database history logging, audit
+# git like immutable database history logging, audit logging
 
+- log api level requests instead of db changes
 - Change Data Capture (CDC), Write-Ahead Logging (WAL)
 - https://www.reddit.com/r/Database/comments/wrrw2e/how_would_you_guys_approach_a_history_table_its/
 - How to use immudb, the lightweight, high-speed immutable database to store data PCI compliant
