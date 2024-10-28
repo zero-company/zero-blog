@@ -125,6 +125,14 @@ LOUD HOSTED:
 https://www.reddit.com/r/node/comments/1c9s1au/any_rbacacl_libraries/
 https://www.youtube.com/watch?v=qprypVZ6Pxo
 
+
+# rust stack
+
+- tokio
+- seaql
+- yew
+- dioxus
+
 # misc
 
   - https://github.com/sindresorhus/slugify
