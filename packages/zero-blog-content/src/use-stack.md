@@ -157,3 +157,4 @@ https://github.com/jetli/awesome-yew
   - https://github.com/tehtbl/awesome-note-taking, gitjournal
   - openfreemap, maplibre
   - https://github.com/zenstackhq/zenstack
+  - https://github.com/resend/react-email
