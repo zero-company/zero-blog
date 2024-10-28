@@ -83,6 +83,7 @@ https://nextui.org/
 https://github.com/primer/react
 https://github.com/marmelab/react-admin
 https://typehero.dev/, ghost follow mouse
+https://theme-ui.com/components/alert, https://github.com/system-ui/theme-ui
 
 # tailwind preflight, reset css, normalize.css
 https://github.com/sindresorhus/modern-normalize
