@@ -250,3 +250,7 @@ https://github.com/TypeStrong/ts-node/issues/2100
 
 https://iamwebwiz.medium.com/how-to-fix-dirname-is-not-defined-in-es-module-scope-34d94a86694d
 https://flaviocopes.com/fix-dirname-not-defined-es-module-scope/
+
+# safe JSON.parse
+https://dev.to/maafaishal/safely-use-jsonparse-in-typescript-12e7
+https://github.com/colinhacks/zod/discussions/2215
