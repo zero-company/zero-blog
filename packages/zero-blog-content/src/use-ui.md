@@ -82,6 +82,7 @@ https://horizon-ui.com/
 https://nextui.org/
 https://github.com/primer/react
 https://github.com/marmelab/react-admin
+https://typehero.dev/, ghost follow mouse
 
 # tailwind preflight, reset css, normalize.css
 https://github.com/sindresorhus/modern-normalize
