@@ -133,6 +133,8 @@ https://www.youtube.com/watch?v=qprypVZ6Pxo
 - yew
 - dioxus
 
+https://github.com/jetli/awesome-yew
+
 # misc
 
   - https://github.com/sindresorhus/slugify
