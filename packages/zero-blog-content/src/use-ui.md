@@ -81,6 +81,7 @@ https://tailgrids.com
 https://horizon-ui.com/
 https://nextui.org/
 https://github.com/primer/react
+https://github.com/marmelab/react-admin
 
 # tailwind preflight, reset css, normalize.css
 https://github.com/sindresorhus/modern-normalize
