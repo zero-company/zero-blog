@@ -158,3 +158,4 @@ https://github.com/jetli/awesome-yew
   - openfreemap, maplibre
   - https://github.com/zenstackhq/zenstack
   - https://github.com/resend/react-email
+    - tailwind buggy

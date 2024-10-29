@@ -88,4 +88,4 @@ https://github.com/Splidejs/splide
 https://naotoshifujita.com/blog/, texture grainy background noise, https://ibelick.com/blog/create-grainy-backgrounds-with-css
 
 # tailwind preflight, reset css, normalize.css
-https://github.com/sindresorhus/modern-normalize
+https://github.com/sindresorhus/modern-normalize, still has margins
