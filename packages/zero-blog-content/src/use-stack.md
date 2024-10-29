@@ -161,3 +161,4 @@ https://github.com/jetli/awesome-yew
     - tailwind buggy, https://github.com/resend/react-email/issues/1615
     - https://www.npmjs.com/package/vite-plugin-singlefile
     - nodemailer html max size, https://stackoverflow.com/questions/42539707/maximum-email-body-size
+  - docusign
