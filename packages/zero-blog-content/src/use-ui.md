@@ -85,7 +85,7 @@ https://github.com/marmelab/react-admin
 https://typehero.dev/, ghost follow mouse
 https://theme-ui.com/components/alert, https://github.com/system-ui/theme-ui
 https://github.com/Splidejs/splide
-https://naotoshifujita.com/blog/, texture grainy background, https://ibelick.com/blog/create-grainy-backgrounds-with-css
+https://naotoshifujita.com/blog/, texture grainy background noise, https://ibelick.com/blog/create-grainy-backgrounds-with-css
 
 # tailwind preflight, reset css, normalize.css
 https://github.com/sindresorhus/modern-normalize
