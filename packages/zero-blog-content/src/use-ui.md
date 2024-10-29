@@ -89,3 +89,6 @@ https://naotoshifujita.com/blog/, texture grainy background noise, https://ibeli
 
 # tailwind preflight, reset css, normalize.css
 https://github.com/sindresorhus/modern-normalize, still has margins
+
+# device breakpoints
+https://www.browserstack.com/guide/responsive-design-breakpoints
