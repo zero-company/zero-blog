@@ -159,3 +159,4 @@ https://github.com/jetli/awesome-yew
   - https://github.com/zenstackhq/zenstack
   - https://github.com/resend/react-email
     - tailwind buggy
+    - https://www.npmjs.com/package/vite-plugin-singlefile
