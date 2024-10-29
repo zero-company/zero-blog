@@ -158,5 +158,5 @@ https://github.com/jetli/awesome-yew
   - openfreemap, maplibre
   - https://github.com/zenstackhq/zenstack
   - https://github.com/resend/react-email
-    - tailwind buggy
+    - tailwind buggy, https://github.com/resend/react-email/issues/1615
     - https://www.npmjs.com/package/vite-plugin-singlefile
