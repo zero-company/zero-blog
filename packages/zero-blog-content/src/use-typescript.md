@@ -244,13 +244,29 @@ tsconfig.json
 ```
 
 # ts-node Unknown file extension ".ts"
+
 https://github.com/TypeStrong/ts-node/issues/2100
 
-# tsx __dirname is not defined in ES module scope
+# tsx \_\_dirname is not defined in ES module scope
 
 https://iamwebwiz.medium.com/how-to-fix-dirname-is-not-defined-in-es-module-scope-34d94a86694d
 https://flaviocopes.com/fix-dirname-not-defined-es-module-scope/
 
 # safe JSON.parse
+
 https://dev.to/maafaishal/safely-use-jsonparse-in-typescript-12e7
 https://github.com/colinhacks/zod/discussions/2215
+
+# typeof react props
+
+https://stackoverflow.com/questions/43230765/typescript-react-access-component-property-types
+
+```
+  type MarkdownProps = React.ComponentProps<typeof Markdown>
+  const markdownProps: Omit<MarkdownProps, 'children'> = {
+  markdownCustomStyles: {
+    h1: { color: 'red' },
+  },
+  markdownContainerStyles: {},
+  }
+```
