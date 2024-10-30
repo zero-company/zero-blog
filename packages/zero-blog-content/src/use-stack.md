@@ -131,6 +131,11 @@ https://www.youtube.com/watch?v=qprypVZ6Pxo
 - playwright
 - crypress
 
+# email templates
+
+- https://github.com/mailchimp/email-blueprints
+- https://github.com/resend/react-email
+
 # rust stack
 
 - tokio
