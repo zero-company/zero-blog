@@ -126,6 +126,11 @@ https://www.reddit.com/r/node/comments/1c9s1au/any_rbacacl_libraries/
 https://www.youtube.com/watch?v=qprypVZ6Pxo
 
 
+# testing tools
+
+- playwright
+- crypress
+
 # rust stack
 
 - tokio
