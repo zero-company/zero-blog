@@ -103,3 +103,6 @@ settings.json
 # resources
 https://jamstack.org/headless-cms/
 https://bejamas.io
+
+# next api routes
+- https://www.wisp.blog/blog/nextjs-14-app-router-get-and-post-examples-with-typescript
