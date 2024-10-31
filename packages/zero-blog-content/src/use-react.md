@@ -38,3 +38,5 @@ https://github.com/cloudflare/next-on-pages/issues/384
 https://stackoverflow.com/questions/57161839/module-not-found-error-cant-resolve-fs-error
 https://stackoverflow.com/questions/64926174/module-not-found-cant-resolve-fs-in-next-js-application
 https://github.com/vercel/next.js/discussions/62104
+https://stackoverflow.com/questions/76298505/my-next-js-app-isnt-building-and-returing-a-type-error-how-do-i-fix
+don't use process.env directly on route.ts, import instead
