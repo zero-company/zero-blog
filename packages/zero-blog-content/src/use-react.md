@@ -37,3 +37,4 @@ https://www.reddit.com/r/nextjs/comments/1do2vtw/disabling_button_in_client_comp
 https://github.com/cloudflare/next-on-pages/issues/384
 https://stackoverflow.com/questions/57161839/module-not-found-error-cant-resolve-fs-error
 https://stackoverflow.com/questions/64926174/module-not-found-cant-resolve-fs-in-next-js-application
+https://github.com/vercel/next.js/discussions/62104
