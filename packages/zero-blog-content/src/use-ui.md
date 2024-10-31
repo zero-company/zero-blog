@@ -95,3 +95,6 @@ https://www.browserstack.com/guide/responsive-design-breakpoints
 
 # email supported styles
 https://www.htmlemailcheck.com/knowledge-base/list-of-gmail-supported-css-properties-media-queries/
+
+
+# beauty marks, subtle reveries
