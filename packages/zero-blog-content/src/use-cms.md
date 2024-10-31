@@ -106,3 +106,6 @@ https://bejamas.io
 
 # next api routes
 - https://www.wisp.blog/blog/nextjs-14-app-router-get-and-post-examples-with-typescript
+
+# constraints remain even after migrate reset
+remake postgresql
