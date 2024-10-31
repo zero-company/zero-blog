@@ -98,14 +98,19 @@ settings.json
 ```
 
 # prisma healthcheck test migrate
-  https://github.com/prisma/prisma/issues/10977
+
+https://github.com/prisma/prisma/issues/10977
 
 # resources
+
 https://jamstack.org/headless-cms/
 https://bejamas.io
 
 # next api routes
+
 - https://www.wisp.blog/blog/nextjs-14-app-router-get-and-post-examples-with-typescript
 
 # constraints remain even after migrate reset
+
+delete previous migrations, rebuild prisma, migrate:dev, migrate:reset
 remake postgresql
