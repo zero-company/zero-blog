@@ -145,6 +145,10 @@ https://www.youtube.com/watch?v=qprypVZ6Pxo
 
 https://github.com/jetli/awesome-yew
 
+# validation
+- zod
+  - https://github.com/causaly/zod-validation-error
+
 # misc
 
   - https://github.com/sindresorhus/slugify
