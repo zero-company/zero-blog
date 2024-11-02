@@ -177,3 +177,6 @@ https://github.com/jetli/awesome-yew
     - nodemailer html max size, https://stackoverflow.com/questions/42539707/maximum-email-body-size
   - docusign
   - https://remarkjs.github.io/react-markdown/
+  - This might fix error handling in JS
+    https://www.youtube.com/watch?v=lng6dmrWg8A
+  - https://github.com/supermacro/neverthrow
